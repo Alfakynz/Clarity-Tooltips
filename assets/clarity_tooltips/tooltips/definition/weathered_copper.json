@@ -1,0 +1,31 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:weathered_copper",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "weathered_copper",
+      "weathered_chiseled_copper",
+      "weathered_copper_grate",
+      "weathered_cut_copper",
+      "weathered_cut_copper_stairs",
+      "weathered_cut_copper_slab",
+      "weathered_copper_door",
+      "weathered_copper_trapdoor",
+      "weathered_copper_bulb",
+      "waxed_weathered_copper",
+      "waxed_weathered_chiseled_copper",
+      "waxed_weathered_copper_grate",
+      "waxed_weathered_cut_copper",
+      "waxed_weathered_cut_copper_stairs",
+      "waxed_weathered_cut_copper_slab",
+      "waxed_weathered_copper_door",
+      "waxed_weathered_copper_trapdoor",
+      "waxed_weathered_copper_bulb",
+      "friendsandfoes:weathered_copper_button",
+      "friendsandfoes:waxed_weathered_copper_button",
+      "friendsandfoes:weathered_lightning_rod",
+      "friendsandfoes:waxed_weathered_lightning_rod"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:magic",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "heart_of_the_sea",
+      "conduit",
+      "nautilus_shell",
+      "enchanting_table",
+      "enchanted_book",
+      "beacon",
+      "aether:enchanted_dart",
+      "aether:enchanted_dart_shooter",
+      "immersive_armors:robe_helmet",
+      "immersive_armors:robe_chestplate",
+      "immersive_armors:robe_leggings",
+      "immersive_armors:robe_boots"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:dead",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:enriched_dead_log",
+      "biomesoplenty:dead_log",
+      "biomesoplenty:dead_wood",
+      "biomesoplenty:stripped_dead_log",
+      "biomesoplenty:stripped_dead_wood",
+      "biomesoplenty:dead_planks",
+      "biomesoplenty:dead_stairs",
+      "biomesoplenty:dead_slab",
+      "biomesoplenty:dead_fence",
+      "biomesoplenty:dead_fence_gate",
+      "biomesoplenty:dead_door",
+      "biomesoplenty:dead_trapdoor",
+      "biomesoplenty:dead_pressure_plate",
+      "biomesoplenty:dead_button",
+      "biomesoplenty:dead_boat",
+      "biomesoplenty:dead_chest_boat",
+      "biomesoplenty:dead_sign",
+      "biomesoplenty:dead_hanging_sign"
+    ]
+  }
+}

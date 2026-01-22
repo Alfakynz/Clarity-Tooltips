@@ -1,0 +1,27 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:redwood",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:enriched_redwood_log",
+      "biomesoplenty:redwood_log",
+      "biomesoplenty:redwood_wood",
+      "biomesoplenty:stripped_redwood_log",
+      "biomesoplenty:stripped_redwood_wood",
+      "biomesoplenty:redwood_planks",
+      "biomesoplenty:redwood_stairs",
+      "biomesoplenty:redwood_slab",
+      "biomesoplenty:redwood_fence",
+      "biomesoplenty:redwood_fence_gate",
+      "biomesoplenty:redwood_door",
+      "biomesoplenty:redwood_trapdoor",
+      "biomesoplenty:redwood_pressure_plate",
+      "biomesoplenty:redwood_button",
+      "biomesoplenty:redwood_boat",
+      "biomesoplenty:redwood_chest_boat",
+      "biomesoplenty:redwood_sign",
+      "biomesoplenty:redwood_hanging_sign"
+    ]
+  }
+}

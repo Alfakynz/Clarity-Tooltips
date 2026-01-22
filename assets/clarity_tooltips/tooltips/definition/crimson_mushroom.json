@@ -1,0 +1,15 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:crimson_mushroom",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "weeping_vines",
+      "nether_wart_block",
+      "crimson_roots",
+      "crimson_nylium",
+      "crimson_fungus",
+      "wilderwild:crimson_shelf_fungi"
+    ]
+  }
+}

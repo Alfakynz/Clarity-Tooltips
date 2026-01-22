@@ -1,0 +1,11 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:yellow_mesoglea",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "wilderwild:yellow_mesoglea",
+      "wilderwild:yellow_nematocyst"
+    ]
+  }
+}

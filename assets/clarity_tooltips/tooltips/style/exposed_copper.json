@@ -1,0 +1,7 @@
+{
+  "panel": "clarity_tooltips:exposed_copper",
+  "frame": "clarity_tooltips:exposed_copper",
+  "slot": "obscure_tooltips:default",
+  "icon": "obscure_tooltips:default",
+  "effects": []
+}

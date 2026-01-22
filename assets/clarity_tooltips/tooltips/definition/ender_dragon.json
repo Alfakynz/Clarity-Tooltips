@@ -1,0 +1,13 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:ender_dragon",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "end_crystal",
+      "dragons_breath",
+      "dragon_egg",
+      "dragon_head"
+    ]
+  }
+}

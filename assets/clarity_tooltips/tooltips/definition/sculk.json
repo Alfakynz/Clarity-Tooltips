@@ -1,0 +1,23 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:sculk",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "sculk",
+      "sculk_vein",
+      "sculk_catalyst",
+      "sculk_shrieker",
+      "sculk_sensor",
+      "deeperdarker:sculk_tendrils",
+      "deeperdarker:sculk_vines",
+      "deeperdarker:infested_sculk",
+      "deeperdarker:sculk_jaw",
+      "wilderwild:osseous_sculk",
+      "wilderwild:sculk_stairs",
+      "wilderwild:sculk_slab",
+      "wilderwild:sculk_wall",
+      "wilderwild:hanging_tendril"
+    ]
+  }
+}

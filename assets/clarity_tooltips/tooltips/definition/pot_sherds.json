@@ -1,0 +1,14 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:pot_sherds",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "#minecraft:decorated_pot_sherds",
+      "decorated_pot",
+      "flower_pot",
+      "%Potted",
+      "deeperdarker:ancient_vase"
+    ]
+  }
+}

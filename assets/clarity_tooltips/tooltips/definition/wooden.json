@@ -1,0 +1,18 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:wooden",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "wooden_shovel",
+      "wooden_pickaxe",
+      "wooden_axe",
+      "wooden_hoe",
+      "wooden_sword",
+      "immersive_armors:wooden_helmet",
+      "immersive_armors:wooden_chestplate",
+      "immersive_armors:wooden_leggings",
+      "immersive_armors:wooden_boots"
+    ]
+  }
+}

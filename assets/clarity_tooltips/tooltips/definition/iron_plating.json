@@ -1,0 +1,28 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:iron_plating",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "iron_door",
+      "iron_trapdoor",
+      "iron_bars",
+      "iron_block",
+      "#minecraft:anvil",
+      "#minecraft:rails",
+      "minecart",
+      "chest_minecart",
+      "furnace_minecart",
+      "hopper_minecart",
+      "tnt_minecart",
+      "chain",
+      "lantern",
+      "soul_lantern",
+      "copperhopper:copper_hopper_minecart",
+      "thecopperrail:copper_rail",
+      "goat_horn",
+      "spawner",
+      "wilderwild:display_lantern"
+    ]
+  }
+}

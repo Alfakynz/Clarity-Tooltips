@@ -1,0 +1,12 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:sponge",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "sponge",
+      "wet_sponge",
+      "wilderwild:sponge_bud"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:smoke_and_flames",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "fire_charge",
+      "flint_and_steel",
+      "blaze_powder",
+      "netherite_scrap",
+      "magma_block",
+      "netherite_upgrade_smithing_template",
+      "torch",
+      "soul_torch",
+      "campfire",
+      "soul_campfire",
+      "aether:ambrosium_torch",
+      "friendsandfoes:wildfire_crown",
+      "friendsandfoes:wildfire_crown_fragment",
+      "pyrellium:netherrack_mycelium"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:burning",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "pyrellium:burning_log",
+      "pyrellium:burning_wood",
+      "pyrellium:stripped_burning_log",
+      "pyrellium:stripped_burning_wood",
+      "pyrellium:burning_planks",
+      "pyrellium:burning_stairs",
+      "pyrellium:burning_slab",
+      "pyrellium:burning_fence",
+      "pyrellium:burning_fence_gate",
+      "pyrellium:burning_door",
+      "pyrellium:burning_trapdoor",
+      "pyrellium:burning_pressure_plate",
+      "pyrellium:burning_button",
+      "pyrellium:burning_sign",
+      "pyrellium:burning_hanging_sign",
+      "pyrellium:burning_chest_boat",
+      "pyrellium:burning_boat"
+    ]
+  }
+}

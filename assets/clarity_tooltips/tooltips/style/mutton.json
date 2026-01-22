@@ -1,0 +1,7 @@
+{
+  "panel": "clarity_tooltips:mutton",
+  "frame": "clarity_tooltips:mutton",
+  "slot": "obscure_tooltips:default",
+  "icon": "obscure_tooltips:default",
+  "effects": []
+}

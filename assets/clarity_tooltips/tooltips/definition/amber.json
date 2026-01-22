@@ -1,0 +1,13 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:amber",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "pyrellium:burning_roots",
+      "pyrellium:burning_sprouts",
+      "pyrellium:burning_vines",
+      "pyrellium:burning_nylium"
+    ]
+  }
+}

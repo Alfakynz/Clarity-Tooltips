@@ -1,0 +1,13 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:mossy_mud",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "wilderwild:mossy_mud_bricks",
+      "wilderwild:mossy_mud_brick_stairs",
+      "wilderwild:mossy_mud_brick_slab",
+      "wilderwild:mossy_mud_brick_wall"
+    ]
+  }
+}

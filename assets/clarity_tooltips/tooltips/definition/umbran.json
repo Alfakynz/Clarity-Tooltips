@@ -1,0 +1,27 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:umbran",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:enriched_umbran_log",
+      "biomesoplenty:umbran_log",
+      "biomesoplenty:umbran_wood",
+      "biomesoplenty:stripped_umbran_log",
+      "biomesoplenty:stripped_umbran_wood",
+      "biomesoplenty:umbran_planks",
+      "biomesoplenty:umbran_stairs",
+      "biomesoplenty:umbran_slab",
+      "biomesoplenty:umbran_fence",
+      "biomesoplenty:umbran_fence_gate",
+      "biomesoplenty:umbran_door",
+      "biomesoplenty:umbran_trapdoor",
+      "biomesoplenty:umbran_pressure_plate",
+      "biomesoplenty:umbran_button",
+      "biomesoplenty:umbran_boat",
+      "biomesoplenty:umbran_chest_boat",
+      "biomesoplenty:umbran_sign",
+      "biomesoplenty:umbran_hanging_sign"
+    ]
+  }
+}

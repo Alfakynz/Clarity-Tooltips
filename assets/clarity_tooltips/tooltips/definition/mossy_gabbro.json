@@ -1,0 +1,13 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:mossy_gabbro",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "wilderwild:mossy_gabbro_bricks",
+      "wilderwild:mossy_gabbro_brick_stairs",
+      "wilderwild:mossy_gabbro_brick_slab",
+      "wilderwild:mossy_gabbro_brick_wall"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:netherite",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "netherite_sword",
+      "netherite_shovel",
+      "netherite_pickaxe",
+      "netherite_axe",
+      "netherite_hoe",
+      "netherite_helmet",
+      "netherite_chestplate",
+      "netherite_leggings",
+      "netherite_boots",
+      "farmersdelight:netherite_knife",
+      "medievalweapons:netherite_small_axe",
+      "medievalweapons:netherite_long_sword",
+      "medievalweapons:netherite_dagger",
+      "medievalweapons:netherite_francisca",
+      "medievalweapons:netherite_big_axe",
+      "medievalweapons:netherite_javelin",
+      "medievalweapons:netherite_lance",
+      "medievalweapons:netherite_healing_staff",
+      "medievalweapons:netherite_mace",
+      "medievalweapons:netherite_ninjato",
+      "medievalweapons:netherite_sickle",
+      "medievalweapons:netherite_rapier",
+      "yyzsbackpack:netherite_backpack",
+      "sophisticatedbackpacks:netherite_backpack",
+      "beansbackpacks:netherite_backpack",
+      "beansbackpacks:netherite_lunch_box",
+      "aether:netherite_gloves"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:purple",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "farmersdelight:purple_canvas_sign",
+      "farmersdelight:purple_hanging_canvas_sign",
+      "vanillabackport:purple_harness",
+      "another_furniture:purple_stool",
+      "another_furniture:purple_curtain",
+      "another_furniture:purple_lamp",
+      "another_furniture:purple_sofa",
+      "another_furniture:purple_tall_stool",
+      "comforts:sleeping_bag_purple",
+      "comforts:hammock_purple",
+      "deeperdarker:purple_sculk_transmitter",
+      "soulcandles:purple_soul_candle",
+      "&rgb=8991416"
+    ]
+  }
+}

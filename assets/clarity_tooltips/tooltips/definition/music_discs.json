@@ -1,0 +1,12 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:music_discs",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "jukebox",
+      "vanillabackport:music_disc_tears",
+      "vanillabackport:music_disc_lava_chicken"
+    ]
+  }
+}

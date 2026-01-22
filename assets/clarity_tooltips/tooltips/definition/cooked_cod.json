@@ -1,0 +1,10 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:cooked_cod",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "cooked_cod"
+    ]
+  }
+}

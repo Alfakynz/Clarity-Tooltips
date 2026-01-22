@@ -1,0 +1,12 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:tube_coral",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "tube_coral_block",
+      "tube_coral",
+      "tube_coral_fan"
+    ]
+  }
+}

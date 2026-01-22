@@ -1,0 +1,10 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:gold_nugget",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "gold_nugget"
+    ]
+  }
+}

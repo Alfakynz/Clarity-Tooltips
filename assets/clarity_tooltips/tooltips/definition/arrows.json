@@ -1,0 +1,17 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:arrows",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "bow",
+      "crossbow",
+      "arrow",
+      "spectral_arrow",
+      "tipped_arrow",
+      "aether:phoenix_bow",
+      "pyrellium:amethyst_arrow",
+      "pyrellium:opal_arrow"
+    ]
+  }
+}

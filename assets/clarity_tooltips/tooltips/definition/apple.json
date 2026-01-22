@@ -1,8 +1,0 @@
-{
-  "priority": 50,
-  "style": "clarity_tooltips:apple",
-  "filter": {
-    "type": "obscure_tooltips:item",
-    "values": ["apple"]
-  }
-}

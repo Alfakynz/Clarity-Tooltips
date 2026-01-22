@@ -1,0 +1,7 @@
+{
+  "panel": "clarity_tooltips:seeds",
+  "frame": "clarity_tooltips:seeds",
+  "slot": "obscure_tooltips:default",
+  "icon": "obscure_tooltips:default",
+  "effects": []
+}

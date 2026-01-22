@@ -1,0 +1,18 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:brimstone",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:brimstone",
+      "biomesoplenty:brimstone_bricks",
+      "biomesoplenty:brimstone_brick_stairs",
+      "biomesoplenty:brimstone_brick_slab",
+      "biomesoplenty:brimstone_brick_wall",
+      "biomesoplenty:chiseled_brimstone_bricks",
+      "biomesoplenty:brimstone_fumarole",
+      "biomesoplenty:brimstone_cluster",
+      "biomesoplenty:brimstone_bud"
+    ]
+  }
+}

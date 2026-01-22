@@ -1,0 +1,17 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:opal",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "pyrellium:opal",
+      "pyrellium:small_opal_bud",
+      "pyrellium:medium_opal_bud",
+      "pyrellium:large_opal_bud",
+      "pyrellium:opal_cluster",
+      "pyrellium:budding_opal",
+      "pyrellium:opal_block",
+      "pyrellium:clear_opal_block"
+    ]
+  }
+}

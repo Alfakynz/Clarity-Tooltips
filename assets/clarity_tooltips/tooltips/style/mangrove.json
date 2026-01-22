@@ -1,0 +1,7 @@
+{
+  "panel": "clarity_tooltips:mangrove",
+  "frame": "clarity_tooltips:mangrove",
+  "slot": "obscure_tooltips:default",
+  "icon": "obscure_tooltips:default",
+  "effects": []
+}

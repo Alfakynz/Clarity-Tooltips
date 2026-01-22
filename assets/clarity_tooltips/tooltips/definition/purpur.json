@@ -1,0 +1,13 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:purpur",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "purpur_block",
+      "purpur_pillar",
+      "purpur_stairs",
+      "purpur_slab"
+    ]
+  }
+}

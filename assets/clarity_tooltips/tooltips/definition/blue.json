@@ -1,0 +1,23 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:blue",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "farmersdelight:blue_canvas_sign",
+      "farmersdelight:blue_hanging_canvas_sign",
+      "vanillabackport:blue_harness",
+      "another_furniture:blue_stool",
+      "another_furniture:blue_curtain",
+      "another_furniture:blue_lamp",
+      "another_furniture:blue_sofa",
+      "another_furniture:blue_tall_stool",
+      "aether:blue_cape",
+      "comforts:sleeping_bag_blue",
+      "comforts:hammock_blue",
+      "deeperdarker:blue_sculk_transmitter",
+      "soulcandles:blue_soul_candle",
+      "&rgb=3949738"
+    ]
+  }
+}

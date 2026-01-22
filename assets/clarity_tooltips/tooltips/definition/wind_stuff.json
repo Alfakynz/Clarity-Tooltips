@@ -1,0 +1,15 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:wind_stuff",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "wind_charge",
+      "breeze_rod",
+      "trial_key",
+      "ominous_trial_key",
+      "vault",
+      "trial_spawner"
+    ]
+  }
+}

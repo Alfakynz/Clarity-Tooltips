@@ -1,0 +1,43 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:bamboo",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "bamboo_block",
+      "stripped_bamboo_block",
+      "bamboo_planks",
+      "bamboo_mosaic",
+      "bamboo_stairs",
+      "bamboo_mosaic_stairs",
+      "bamboo_slab",
+      "bamboo_mosaic_slab",
+      "bamboo_fence",
+      "bamboo_fence_gate",
+      "bamboo_door",
+      "bamboo_trapdoor",
+      "bamboo_pressure_plate",
+      "bamboo_button",
+      "bamboo_sign",
+      "bamboo_hanging_sign",
+      "bamboo_chest_raft",
+      "bamboo_raft",
+      "farmersdelight:bamboo_cabinet",
+      "niftycarts:bamboo_supply_cart",
+      "niftycarts:bamboo_plow",
+      "niftycarts:bamboo_animal_cart",
+      "niftycarts:bamboo_hand_cart",
+      "niftycarts:bamboo_reaper",
+      "niftycarts:bamboo_seed_drill",
+      "niftycarts:bamboo_wagon",
+      "another_furniture:bamboo_chair",
+      "another_furniture:bamboo_shelf",
+      "another_furniture:bamboo_table",
+      "another_furniture:bamboo_shutter",
+      "another_furniture:bamboo_flower_box",
+      "another_furniture:bamboo_bench",
+      "another_furniture:bamboo_drawer",
+      "friendsandfoes:bamboo_beehive"
+    ]
+  }
+}

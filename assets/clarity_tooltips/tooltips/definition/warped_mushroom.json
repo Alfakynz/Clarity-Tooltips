@@ -1,0 +1,16 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:warped_mushroom",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "warped_roots",
+      "twisting_vines",
+      "warped_nylium",
+      "warped_fungus",
+      "warped_wart_block",
+      "nether_sprouts",
+      "wilderwild:warped_shelf_fungi"
+    ]
+  }
+}

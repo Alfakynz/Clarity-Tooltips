@@ -1,0 +1,17 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:flesh",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "rotten_flesh",
+      "biomesoplenty:flesh",
+      "biomesoplenty:porous_flesh",
+      "biomesoplenty:flesh_tendons",
+      "biomesoplenty:flesh_tendons_strand",
+      "biomesoplenty:eyebulb",
+      "biomesoplenty:hair",
+      "biomesoplenty:pus_bubble"
+    ]
+  }
+}

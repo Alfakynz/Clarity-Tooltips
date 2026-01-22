@@ -1,0 +1,28 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:baobab",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "wilderwild:baobab_log",
+      "wilderwild:baobab_wood",
+      "wilderwild:stripped_baobab_log",
+      "wilderwild:stripped_baobab_wood",
+      "wilderwild:hollowed_baobab_log",
+      "wilderwild:stripped_hollowed_baobab_log",
+      "wilderwild:baobab_planks",
+      "wilderwild:baobab_stairs",
+      "wilderwild:baobab_slab",
+      "wilderwild:baobab_fence",
+      "wilderwild:baobab_fence_gate",
+      "wilderwild:baobab_door",
+      "wilderwild:baobab_trapdoor",
+      "wilderwild:baobab_pressure_plate",
+      "wilderwild:baobab_button",
+      "wilderwild:baobab_sign",
+      "wilderwild:baobab_hanging_sign",
+      "wilderwild:baobab_chest_boat",
+      "wilderwild:baobab_boat"
+    ]
+  }
+}

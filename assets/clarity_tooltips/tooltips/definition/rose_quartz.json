@@ -1,0 +1,15 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:rose_quartz",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:rose_quartz_block",
+      "biomesoplenty:rose_quartz_cluster",
+      "biomesoplenty:large_rose_quartz_bud",
+      "biomesoplenty:medium_rose_quartz_bud",
+      "biomesoplenty:small_rose_quartz_bud",
+      "biomesoplenty:rose_quartz_chunk"
+    ]
+  }
+}

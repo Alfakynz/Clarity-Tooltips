@@ -1,0 +1,16 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:granite",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "granite",
+      "granite_stairs",
+      "granite_slab",
+      "granite_wall",
+      "polished_granite",
+      "polished_granite_slab",
+      "polished_granite_stairs"
+    ]
+  }
+}

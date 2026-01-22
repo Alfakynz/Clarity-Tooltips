@@ -1,0 +1,14 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:honey",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "bee_nest",
+      "honeycomb",
+      "honeycomb_block",
+      "honey_block",
+      "honey_bottle"
+    ]
+  }
+}

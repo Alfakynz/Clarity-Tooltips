@@ -1,0 +1,27 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:jacaranda",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:enriched_jacaranda_log",
+      "biomesoplenty:jacaranda_log",
+      "biomesoplenty:jacaranda_wood",
+      "biomesoplenty:stripped_jacaranda_log",
+      "biomesoplenty:stripped_jacaranda_wood",
+      "biomesoplenty:jacaranda_planks",
+      "biomesoplenty:jacaranda_stairs",
+      "biomesoplenty:jacaranda_slab",
+      "biomesoplenty:jacaranda_fence",
+      "biomesoplenty:jacaranda_fence_gate",
+      "biomesoplenty:jacaranda_door",
+      "biomesoplenty:jacaranda_trapdoor",
+      "biomesoplenty:jacaranda_pressure_plate",
+      "biomesoplenty:jacaranda_button",
+      "biomesoplenty:jacaranda_boat",
+      "biomesoplenty:jacaranda_chest_boat",
+      "biomesoplenty:jacaranda_sign",
+      "biomesoplenty:jacaranda_hanging_sign"
+    ]
+  }
+}

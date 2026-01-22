@@ -1,0 +1,11 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:ochre_froglight",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "ochre_froglight",
+      "wilderwild:ochre_froglight_goop"
+    ]
+  }
+}

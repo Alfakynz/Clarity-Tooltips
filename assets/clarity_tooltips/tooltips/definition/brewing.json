@@ -1,0 +1,22 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:brewing",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "cauldron",
+      "brewing_stand",
+      "fermented_spider_eye",
+      "spider_eye",
+      "ghast_tear",
+      "magma_cream",
+      "pufferfish",
+      "sugar",
+      "rabbit_foot",
+      "phantom_membrane",
+      "glistering_melon_slice",
+      "dragon_breath",
+      "beansbackpacks:alchemy_bag"
+    ]
+  }
+}

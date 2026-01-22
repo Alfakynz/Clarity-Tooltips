@@ -1,0 +1,22 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:cyan",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "farmersdelight:cyan_canvas_sign",
+      "farmersdelight:cyan_hanging_canvas_sign",
+      "vanillabackport:cyan_harness",
+      "another_furniture:cyan_stool",
+      "another_furniture:cyan_curtain",
+      "another_furniture:cyan_lamp",
+      "another_furniture:cyan_sofa",
+      "another_furniture:cyan_tall_stool",
+      "comforts:sleeping_bag_cyan",
+      "comforts:hammock_cyan",
+      "deeperdarker:cyan_sculk_transmitter",
+      "soulcandles:cyan_soul_candle",
+      "&rgb=1481884"
+    ]
+  }
+}

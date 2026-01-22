@@ -1,0 +1,16 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:amethyst",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "small_amethyst_bud",
+      "medium_amethyst_bud",
+      "large_amethyst_bud",
+      "amethyst_cluster",
+      "budding_amethyst",
+      "amethyst_block",
+      "pyrellium:clear_amethyst_block"
+    ]
+  }
+}

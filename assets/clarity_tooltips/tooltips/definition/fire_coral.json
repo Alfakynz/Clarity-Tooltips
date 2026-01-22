@@ -1,0 +1,12 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:fire_coral",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "fire_coral_block",
+      "fire_coral",
+      "fire_coral_fan"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:sand",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "sandstone",
+      "sandstone_stairs",
+      "sandstone_slab",
+      "sandstone_wall",
+      "chiseled_sandstone",
+      "smooth_sandstone",
+      "smooth_sandstone_stairs",
+      "smooth_sandstone_slab",
+      "cut_sandstone",
+      "cut_sandstone_slab",
+      "sand",
+      "suspicious_sand",
+      "wilderwild:scorched_sand"
+    ]
+  }
+}

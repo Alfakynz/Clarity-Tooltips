@@ -1,0 +1,7 @@
+{
+  "panel": "clarity_tooltips:porkchop",
+  "frame": "clarity_tooltips:porkchop",
+  "slot": "obscure_tooltips:default",
+  "icon": "obscure_tooltips:default",
+  "effects": []
+}

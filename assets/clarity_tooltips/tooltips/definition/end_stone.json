@@ -1,0 +1,16 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:end_stone",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "end_stone",
+      "end_stone_bricks",
+      "end_stone_brick_stairs",
+      "end_stone_brick_slab",
+      "end_stone_brick_wall",
+      "biomesoplenty:algal_end_stone",
+      "biomesoplenty:unmapped_end_stone"
+    ]
+  }
+}

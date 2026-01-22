@@ -1,0 +1,21 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:silk_and_webs",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "cobweb",
+      "string",
+      "biomesoplenty:glowworm_silk",
+      "biomesoplenty:glowworm_silk_strand",
+      "biomesoplenty:spider_egg",
+      "biomesoplenty:hanging_cobweb",
+      "biomesoplenty:hanging_cobweb_strand",
+      "biomesoplenty:stringy_cobweb",
+      "biomesoplenty:webbing",
+      "pyrellium:silk_block",
+      "pyrellium:silk_carpet",
+      "pyrellium:hanging_silk"
+    ]
+  }
+}

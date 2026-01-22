@@ -1,0 +1,7 @@
+{
+  "panel": "clarity_tooltips:gray",
+  "frame": "clarity_tooltips:gray",
+  "slot": "obscure_tooltips:default",
+  "icon": "obscure_tooltips:default",
+  "effects": []
+}

@@ -1,0 +1,17 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:leather",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "leather",
+      "leather_helmet",
+      "leather_chestplate",
+      "leather_leggings",
+      "leather_boots",
+      "leather_horse_armor",
+      "rabbit_hide",
+      "aether:leather_gloves"
+    ]
+  }
+}

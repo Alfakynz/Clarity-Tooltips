@@ -1,0 +1,15 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:elite_equipment",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "mace",
+      "heavy_core",
+      "trident",
+      "turtle_helmet",
+      "elytra",
+      "customizableelytra:elytra_wing"
+    ]
+  }
+}

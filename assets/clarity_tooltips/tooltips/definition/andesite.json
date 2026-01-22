@@ -1,0 +1,16 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:andesite",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "andesite",
+      "andesite_stairs",
+      "andesite_slab",
+      "andesite_wall",
+      "polished_andesite",
+      "polished_andesite_slab",
+      "polished_andesite_stairs"
+    ]
+  }
+}

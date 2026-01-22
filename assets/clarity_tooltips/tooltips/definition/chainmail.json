@@ -1,0 +1,20 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:chainmail",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "iron_nugget",
+      "stone_shovel",
+      "stone_pickaxe",
+      "stone_axe",
+      "stone_hoe",
+      "stone_sword",
+      "chainmail_helmet",
+      "chainmail_chestplate",
+      "chainmail_leggings",
+      "chainmail_boots",
+      "aether:chainmail_gloves"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:seeds",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "cocoa_beans"
+    ]
+  }
+}

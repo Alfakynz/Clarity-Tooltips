@@ -1,0 +1,24 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:mushrooms",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "mushroom_stem",
+      "brown_mushroom_block",
+      "red_mushroom_block",
+      "farmersdelight:red_mushroom_colony",
+      "farmersdelight:brown_mushroom_colony",
+      "biomesoplenty:toadstool_block",
+      "biomesoplenty:glowshroom_block",
+      "pyrellium:mushroom_cap",
+      "pyrellium:brown_shelf_mushroom",
+      "pyrellium:red_shelf_mushroom",
+      "pyrellium:brown_bounceshroom",
+      "pyrellium:red_bounceshroom",
+      "wilderwild:red_shelf_fungi",
+      "wilderwild:brown_shelf_fungi",
+      "wilderwild:glowshroom"
+    ]
+  }
+}

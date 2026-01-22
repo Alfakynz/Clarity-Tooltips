@@ -1,0 +1,12 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:bubble_coral",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "bubble_coral_block",
+      "bubble_coral",
+      "bubble_coral_fan"
+    ]
+  }
+}

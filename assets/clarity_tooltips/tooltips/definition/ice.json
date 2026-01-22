@@ -1,0 +1,20 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:ice",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "snow",
+      "snowball",
+      "snow_block",
+      "ice",
+      "packed_ice",
+      "blue_ice",
+      "aether:ice_ring",
+      "aether:ice_pendant",
+      "pyrellium:freezing_ice",
+      "wilderwild:fragile_ice",
+      "wilderwild:icicle"
+    ]
+  }
+}

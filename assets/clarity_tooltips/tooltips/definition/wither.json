@@ -1,0 +1,16 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:wither",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "wither_skeleton_skull",
+      "nether_star",
+      "wither_rose",
+      "immersive_armors:wither_helmet",
+      "immersive_armors:wither_chestplate",
+      "immersive_armors:wither_leggings",
+      "immersive_armors:wither_boots"
+    ]
+  }
+}

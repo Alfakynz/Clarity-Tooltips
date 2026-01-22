@@ -1,0 +1,20 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:egg",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "egg",
+      "blue_egg",
+      "brown_egg",
+      "sniffer_egg",
+      "turtle_egg",
+      "aether:black_moa_egg",
+      "aether:blue_moa_egg",
+      "aether:white_moa_egg",
+      "friendsandfoes:crab_egg",
+      "wilderwild:ostrich_egg",
+      "wilderwild:penguin_egg"
+    ]
+  }
+}

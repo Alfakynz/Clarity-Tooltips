@@ -1,0 +1,23 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:holy",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "totem_of_undying",
+      "experience_bottle",
+      "golden_carrot",
+      "golden_apple",
+      "enchanted_golden_apple",
+      "aether:enchanted_berry",
+      "aether:healing_stone",
+      "aether:white_apple",
+      "friendsandfoes:totem_of_freezing",
+      "friendsandfoes:totem_of_illusion",
+      "immersive_armors:divine_helmet",
+      "immersive_armors:divine_chestplate",
+      "immersive_armors:divine_leggings",
+      "immersive_armors:divine_boots"
+    ]
+  }
+}

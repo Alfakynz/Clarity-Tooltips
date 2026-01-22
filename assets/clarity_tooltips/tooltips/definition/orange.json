@@ -1,0 +1,22 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:orange",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "farmersdelight:orange_canvas_sign",
+      "farmersdelight:orange_hanging_canvas_sign",
+      "vanillabackport:orange_harness",
+      "another_furniture:orange_stool",
+      "another_furniture:orange_curtain",
+      "another_furniture:orange_lamp",
+      "another_furniture:orange_sofa",
+      "another_furniture:orange_tall_stool",
+      "comforts:sleeping_bag_orange",
+      "comforts:hammock_orange",
+      "deeperdarker:orange_sculk_transmitter",
+      "soulcandles:orange_soul_candle",
+      "&rgb=16351261"
+    ]
+  }
+}

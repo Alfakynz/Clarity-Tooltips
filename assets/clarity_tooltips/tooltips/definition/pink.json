@@ -1,0 +1,22 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:pink",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "farmersdelight:pink_canvas_sign",
+      "farmersdelight:pink_hanging_canvas_sign",
+      "vanillabackport:pink_harness",
+      "another_furniture:pink_stool",
+      "another_furniture:pink_curtain",
+      "another_furniture:pink_lamp",
+      "another_furniture:pink_sofa",
+      "another_furniture:pink_tall_stool",
+      "comforts:sleeping_bag_pink",
+      "comforts:hammock_pink",
+      "deeperdarker:pink_sculk_transmitter",
+      "soulcandles:pink_soul_candle",
+      "&rgb=15961002"
+    ]
+  }
+}

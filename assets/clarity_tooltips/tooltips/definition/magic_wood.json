@@ -1,0 +1,27 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:magic_wood",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:enriched_magic_log",
+      "biomesoplenty:magic_log",
+      "biomesoplenty:magic_wood",
+      "biomesoplenty:stripped_magic_log",
+      "biomesoplenty:stripped_magic_wood",
+      "biomesoplenty:magic_planks",
+      "biomesoplenty:magic_stairs",
+      "biomesoplenty:magic_slab",
+      "biomesoplenty:magic_fence",
+      "biomesoplenty:magic_fence_gate",
+      "biomesoplenty:magic_door",
+      "biomesoplenty:magic_trapdoor",
+      "biomesoplenty:magic_pressure_plate",
+      "biomesoplenty:magic_button",
+      "biomesoplenty:magic_boat",
+      "biomesoplenty:magic_chest_boat",
+      "biomesoplenty:magic_sign",
+      "biomesoplenty:magic_hanging_sign"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:stone",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "cobblestone",
+      "cobblestone_stairs",
+      "cobblestone_slab",
+      "cobblestone_wall",
+      "infested_cobblestone",
+      "stone",
+      "stone_stairs",
+      "stone_slab",
+      "infested_stone",
+      "smooth_stone",
+      "smooth_stone_slab",
+      "stone_bricks",
+      "stone_brick_stairs",
+      "stone_brick_slab",
+      "stone_brick_wall",
+      "infested_stone_bricks",
+      "cracked_stone_bricks",
+      "infested_cracked_stone_bricks",
+      "chiseled_stone_bricks",
+      "infested_chiseled_stone_bricks",
+      "pyrellium:headstone"
+    ]
+  }
+}

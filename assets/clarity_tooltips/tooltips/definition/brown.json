@@ -1,0 +1,22 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:brown",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "farmersdelight:brown_canvas_sign",
+      "farmersdelight:brown_hanging_canvas_sign",
+      "vanillabackport:brown_harness",
+      "another_furniture:brown_stool",
+      "another_furniture:brown_curtain",
+      "another_furniture:brown_lamp",
+      "another_furniture:brown_sofa",
+      "another_furniture:brown_tall_stool",
+      "comforts:sleeping_bag_brown",
+      "comforts:hammock_brown",
+      "deeperdarker:brown_sculk_transmitter",
+      "soulcandles:brown_soul_candle",
+      "&rgb=8606770"
+    ]
+  }
+}

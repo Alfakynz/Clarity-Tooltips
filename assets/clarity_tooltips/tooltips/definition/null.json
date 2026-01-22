@@ -1,0 +1,16 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:null",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:anomaly",
+      "biomesoplenty:liquid_null",
+      "biomesoplenty:null_end_stone",
+      "biomesoplenty:null_block",
+      "biomesoplenty:null_leaves",
+      "biomesoplenty:null_plant",
+      "biomesoplenty:null_block"
+    ]
+  }
+}

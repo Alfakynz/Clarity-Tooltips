@@ -1,0 +1,27 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:fir",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "biomesoplenty:enriched_fir_log",
+      "biomesoplenty:fir_log",
+      "biomesoplenty:fir_wood",
+      "biomesoplenty:stripped_fir_log",
+      "biomesoplenty:stripped_fir_wood",
+      "biomesoplenty:fir_planks",
+      "biomesoplenty:fir_stairs",
+      "biomesoplenty:fir_slab",
+      "biomesoplenty:fir_fence",
+      "biomesoplenty:fir_fence_gate",
+      "biomesoplenty:fir_door",
+      "biomesoplenty:fir_trapdoor",
+      "biomesoplenty:fir_pressure_plate",
+      "biomesoplenty:fir_button",
+      "biomesoplenty:fir_boat",
+      "biomesoplenty:fir_chest_boat",
+      "biomesoplenty:fir_sign",
+      "biomesoplenty:fir_hanging_sign"
+    ]
+  }
+}

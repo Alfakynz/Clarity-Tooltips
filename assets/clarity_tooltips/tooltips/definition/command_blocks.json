@@ -1,0 +1,20 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:command_blocks",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "command_block",
+      "chain_command_block",
+      "repeating_command_block",
+      "command_block_minecart",
+      "structure_void",
+      "structure_block",
+      "jigsaw",
+      "debug_stick",
+      "knowledge_book",
+      "light",
+      "barrier"
+    ]
+  }
+}

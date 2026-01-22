@@ -1,0 +1,13 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:pearlescent_froglight",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "pearlescent_froglight",
+      "wilderwild:pearlescent_froglight_goop",
+      "wilderwild:purple_pearlescent_mesoglea",
+      "wilderwild:purple_pearlescent_nematocyst"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:emerald",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": []
+  }
+}

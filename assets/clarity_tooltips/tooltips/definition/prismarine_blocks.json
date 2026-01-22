@@ -1,0 +1,20 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:prismarine_blocks",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "prismarine",
+      "prismarine_stairs",
+      "prismarine_slab",
+      "prismarine_wall",
+      "prismarine_bricks",
+      "prismarine_brick_stairs",
+      "prismarine_brick_slab",
+      "dark_prismarine",
+      "dark_prismarine_stairs",
+      "dark_prismarine_slab",
+      "sea_lantern"
+    ]
+  }
+}

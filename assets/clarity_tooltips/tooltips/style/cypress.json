@@ -1,0 +1,7 @@
+{
+  "panel": "clarity_tooltips:cypress",
+  "frame": "clarity_tooltips:cypress",
+  "slot": "obscure_tooltips:default",
+  "icon": "obscure_tooltips:default",
+  "effects": []
+}

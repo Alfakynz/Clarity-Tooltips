@@ -1,0 +1,30 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:copper",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "copper_block",
+      "chiseled_copper",
+      "copper_grate",
+      "cut_copper",
+      "cut_copper_stairs",
+      "cut_copper_slab",
+      "copper_door",
+      "copper_trapdoor",
+      "copper_bulb",
+      "waxed_copper_block",
+      "waxed_chiseled_copper",
+      "waxed_copper_grate",
+      "waxed_cut_copper",
+      "waxed_cut_copper_stairs",
+      "waxed_cut_copper_slab",
+      "waxed_copper_door",
+      "waxed_copper_trapdoor",
+      "waxed_copper_bulb",
+      "friendsandfoes:copper_button",
+      "friendsandfoes:waxed_copper_button",
+      "friendsandfoes:waxed_lightning_rod"
+    ]
+  }
+}
