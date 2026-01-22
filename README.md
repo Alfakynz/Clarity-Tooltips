@@ -4,12 +4,12 @@ Add beautiful borders in tooltips with Obscure Tooltips
 
 ## To Fix
 
-- [ ] panel brimstone.json startColor: auto
-- [ ] panel brimstone.json endColor: auto
-- [ ] panel resonarium.json bgStartColor: auto
-- [ ] panel resonarium.json bgEndColor: auto
-- [ ] panel resonarium.json startColor: auto
-- [ ] panel resonarium.json endColor: auto
+- [x] panel brimstone.json startColor: auto
+- [x] panel brimstone.json endColor: auto
+- [x] panel resonarium.json bgStartColor: auto
+- [x] panel resonarium.json bgEndColor: auto
+- [x] panel resonarium.json startColor: auto
+- [x] panel resonarium.json endColor: auto
 - [ ] definition red.json values: $c:dyed/red
 - [ ] definition red.json values: $c:dyes/red
 - [ ] definition orange.json values: $c:dyed/orange
@@ -42,49 +42,49 @@ Add beautiful borders in tooltips with Obscure Tooltips
 - [ ] definition black.json values: $c:dyes/black
 - [ ] definition brown.json values: $c:dyed/brown
 - [ ] definition brown.json values: $c:dyes/brown
-- [ ] panel netherite.json bgStartColor: auto
-- [ ] panel netherite.json bgEndColor: auto
-- [ ] panel netherite.json startColor: auto
-- [ ] panel netherite.json endColor: auto
+- [x] panel netherite.json bgStartColor: auto
+- [x] panel netherite.json bgEndColor: auto
+- [x] panel netherite.json startColor: auto
+- [x] panel netherite.json endColor: auto
 - [ ] definition netherite.json values: $c:ingots/netherite
 - [ ] definition netherite.json values: $c:storage_blocks/netherite
-- [ ] panel diamond.json bgStartColor: auto
-- [ ] panel diamond.json bgEndColor: auto
-- [ ] panel diamond.json startColor: auto
-- [ ] panel diamond.json endColor: auto
+- [x] panel diamond.json bgStartColor: auto
+- [x] panel diamond.json bgEndColor: auto
+- [x] panel diamond.json startColor: auto
+- [x] panel diamond.json endColor: auto
 - [ ] definition diamond.json values: $c:gems/diamond
 - [ ] definition diamond.json values: $c:storage_blocks/diamond
-- [ ] panel gold.json bgStartColor: auto
-- [ ] panel gold.json bgEndColor: auto
-- [ ] panel gold.json startColor: auto
-- [ ] panel gold.json endColor: auto
+- [x] panel gold.json bgStartColor: auto
+- [x] panel gold.json bgEndColor: auto
+- [x] panel gold.json startColor: auto
+- [x] panel gold.json endColor: auto
 - [ ] definition gold.json values: $c:ingots/gold
 - [ ] definition gold.json values: $c:storage_blocks/gold
-- [ ] panel iron.json bgStartColor: auto
-- [ ] panel iron.json bgEndColor: auto
-- [ ] panel iron.json startColor: auto
-- [ ] panel iron.json endColor: auto
+- [x] panel iron.json bgStartColor: auto
+- [x] panel iron.json bgEndColor: auto
+- [x] panel iron.json startColor: auto
+- [x] panel iron.json endColor: auto
 - [ ] definition iron.json values: $c:ingots/iron
 - [ ] definition iron.json values: $c:storage_blocks/iron
 - [ ] definition iron.json values: $c:buckets
-- [ ] panel smoke_and_flames.json bgEndColor: auto
+- [x] panel smoke_and_flames.json bgEndColor: auto
 - [ ] definition smoke_and_flames.json values: $c:rods/blaze
 - [ ] definition smoke_and_flames.json values: $c:ores/netherite_scrap
 - [ ] definition smoke_and_flames.json values: $c:netherracks
 - [ ] definition magic.json values: $c:gems/lapis
 - [ ] definition magic.json values: $c:storage_blocks/lapis
-- [ ] panel elite_equipment.json bgStartColor: auto
-- [ ] panel elite_equipment.json bgEndColor: auto
+- [x] panel elite_equipment.json bgStartColor: auto
+- [x] panel elite_equipment.json bgEndColor: auto
 - [ ] definition obsidian.json values: $c:obsidians
 - [ ] definition copper_plating.json values: $c:ingots/copper
 - [ ] definition amethyst.json values: $c:gems/amethyst
-- [ ] panel command_blocks.json bgStartColor: auto
-- [ ] panel command_blocks.json bgEndColor: auto
+- [x] panel command_blocks.json bgStartColor: auto
+- [x] panel command_blocks.json bgEndColor: auto
 - [ ] definition emerald.json values: $c:gems/emerald
 - [ ] definition emerald.json values: $c:storage_blocks/emerald
 - [ ] definition mushrooms.json values: $c:mushrooms
-- [ ] panel wind_stuff.json bgStartColor: auto
-- [ ] panel wind_stuff.json bgEndColor: auto
+- [x] panel wind_stuff.json bgStartColor: auto
+- [x] panel wind_stuff.json bgEndColor: auto
 - [ ] definition brewing.json values: $c:potions
 - [ ] definition brewing.json values: $c:crops/nether_wart
 - [ ] definition redstone.json values: $c:dusts/redstone
@@ -93,14 +93,14 @@ Add beautiful borders in tooltips with Obscure Tooltips
 - [ ] definition enderman.json values: $c:ender_pearls
 - [ ] definition enderman.json values: $c:chests/ender
 - [ ] definition music_discs.json values: $c:music_discs
-- [ ] panel rose_quartz.json bgStartColor: auto
-- [ ] panel rose_quartz.json bgEndColor: auto
-- [ ] panel rose_quartz.json startColor: auto
-- [ ] panel rose_quartz.json endColor: auto
-- [ ] panel quartz.json bgStartColor: auto
-- [ ] panel quartz.json bgEndColor: auto
-- [ ] panel quartz.json startColor: auto
-- [ ] panel quartz.json endColor: auto
+- [x] panel rose_quartz.json bgStartColor: auto
+- [x] panel rose_quartz.json bgEndColor: auto
+- [x] panel rose_quartz.json startColor: auto
+- [x] panel rose_quartz.json endColor: auto
+- [x] panel quartz.json bgStartColor: auto
+- [x] panel quartz.json bgEndColor: auto
+- [x] panel quartz.json startColor: auto
+- [x] panel quartz.json endColor: auto
 - [ ] panel silk_and_webs.json bgStartColor: auto
 - [ ] panel silk_and_webs.json bgEndColor: auto
 - [ ] panel silk_and_webs.json startColor: auto
