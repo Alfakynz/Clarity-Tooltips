@@ -24,11 +24,11 @@ Clarity Tooltips adds beautiful borders to tooltips using the Obscure Tooltips m
 
 ## 📦 Installation
 
-You can download Clarity Tooltips on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/clarity-tooltips)
+You can download Clarity Tooltips on [Modrinth](https://modrinth.com/project/FVJdWwQv) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/clarity-tooltips)
 
 ## ⚙️ Requirements
 
-You also need the following mod for it to work properly:
+You need the following mod for it to work properly:
 
 - [Obscure Tooltips](https://modrinth.com/project/5vetjDBY)
 
