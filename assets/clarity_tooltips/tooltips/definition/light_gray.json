@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "light_gray_banner",
+      "light_gray_bed",
+      "light_gray_bundle",
+      "light_gray_candle",
+      "light_gray_carpet",
+      "light_gray_concrete",
+      "light_gray_concrete_powder",
+      "light_gray_dye",
+      "light_gray_glazed_terracotta",
+      "light_gray_harness",
+      "light_gray_shulker_box",
+      "light_gray_stained_glass",
+      "light_gray_stained_glass_pane",
+      "light_gray_terracotta",
+      "light_gray_wool",
       "farmersdelight:light_gray_canvas_sign",
       "farmersdelight:light_gray_hanging_canvas_sign",
-      "vanillabackport:light_gray_harness",
       "another_furniture:light_gray_stool",
       "another_furniture:light_gray_curtain",
       "another_furniture:light_gray_lamp",
       "another_furniture:light_gray_sofa",
       "another_furniture:light_gray_tall_stool",
+      "aether:light_gray_cape",
       "comforts:sleeping_bag_light_gray",
       "comforts:hammock_light_gray",
       "deeperdarker:light_gray_sculk_transmitter",
-      "soulcandles:light_gray_soul_candle",
-      "&rgb=10329495"
+      "soulcandles:light_gray_soul_candle"
     ]
   }
 }

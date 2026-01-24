@@ -4,9 +4,23 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "white_banner",
+      "white_bed",
+      "white_bundle",
+      "white_candle",
+      "white_carpet",
+      "white_concrete",
+      "white_concrete_powder",
+      "white_dye",
+      "white_glazed_terracotta",
+      "white_harness",
+      "white_shulker_box",
+      "white_stained_glass",
+      "white_stained_glass_pane",
+      "white_terracotta",
+      "white_wool",
       "farmersdelight:white_canvas_sign",
       "farmersdelight:white_hanging_canvas_sign",
-      "vanillabackport:white_harness",
       "another_furniture:white_stool",
       "another_furniture:white_curtain",
       "another_furniture:white_lamp",
@@ -16,8 +30,7 @@
       "comforts:sleeping_bag_white",
       "comforts:hammock_white",
       "deeperdarker:white_sculk_transmitter",
-      "soulcandles:white_soul_candle",
-      "&rgb=16383998"
+      "soulcandles:white_soul_candle"
     ]
   }
 }

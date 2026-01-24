@@ -4,6 +4,8 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "gold_ingot",
+      "gold_block",
       "golden_sword",
       "golden_shovel",
       "golden_pickaxe",

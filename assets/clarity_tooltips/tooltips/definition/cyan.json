@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "cyan_banner",
+      "cyan_bed",
+      "cyan_bundle",
+      "cyan_candle",
+      "cyan_carpet",
+      "cyan_concrete",
+      "cyan_concrete_powder",
+      "cyan_dye",
+      "cyan_glazed_terracotta",
+      "cyan_harness",
+      "cyan_shulker_box",
+      "cyan_stained_glass",
+      "cyan_stained_glass_pane",
+      "cyan_terracotta",
+      "cyan_wool",
       "farmersdelight:cyan_canvas_sign",
       "farmersdelight:cyan_hanging_canvas_sign",
-      "vanillabackport:cyan_harness",
       "another_furniture:cyan_stool",
       "another_furniture:cyan_curtain",
       "another_furniture:cyan_lamp",
       "another_furniture:cyan_sofa",
       "another_furniture:cyan_tall_stool",
+      "aether:cyan_cape",
       "comforts:sleeping_bag_cyan",
       "comforts:hammock_cyan",
       "deeperdarker:cyan_sculk_transmitter",
-      "soulcandles:cyan_soul_candle",
-      "&rgb=1481884"
+      "soulcandles:cyan_soul_candle"
     ]
   }
 }

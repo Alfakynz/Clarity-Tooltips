@@ -4,9 +4,23 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "blue_banner",
+      "blue_bed",
+      "blue_bundle",
+      "blue_candle",
+      "blue_carpet",
+      "blue_concrete",
+      "blue_concrete_powder",
+      "blue_dye",
+      "blue_glazed_terracotta",
+      "blue_harness",
+      "blue_shulker_box",
+      "blue_stained_glass",
+      "blue_stained_glass_pane",
+      "blue_terracotta",
+      "blue_wool",
       "farmersdelight:blue_canvas_sign",
       "farmersdelight:blue_hanging_canvas_sign",
-      "vanillabackport:blue_harness",
       "another_furniture:blue_stool",
       "another_furniture:blue_curtain",
       "another_furniture:blue_lamp",
@@ -16,8 +30,7 @@
       "comforts:sleeping_bag_blue",
       "comforts:hammock_blue",
       "deeperdarker:blue_sculk_transmitter",
-      "soulcandles:blue_soul_candle",
-      "&rgb=3949738"
+      "soulcandles:blue_soul_candle"
     ]
   }
 }

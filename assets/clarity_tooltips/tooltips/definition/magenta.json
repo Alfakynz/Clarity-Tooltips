@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "magenta_banner",
+      "magenta_bed",
+      "magenta_bundle",
+      "magenta_candle",
+      "magenta_carpet",
+      "magenta_concrete",
+      "magenta_concrete_powder",
+      "magenta_dye",
+      "magenta_glazed_terracotta",
+      "magenta_harness",
+      "magenta_shulker_box",
+      "magenta_stained_glass",
+      "magenta_stained_glass_pane",
+      "magenta_terracotta",
+      "magenta_wool",
       "farmersdelight:magenta_canvas_sign",
       "farmersdelight:magenta_hanging_canvas_sign",
-      "vanillabackport:magenta_harness",
       "another_furniture:magenta_stool",
       "another_furniture:magenta_curtain",
       "another_furniture:magenta_lamp",
       "another_furniture:magenta_sofa",
       "another_furniture:magenta_tall_stool",
+      "aether:magenta_cape",
       "comforts:sleeping_bag_magenta",
       "comforts:hammock_magenta",
       "deeperdarker:magenta_sculk_transmitter",
-      "soulcandles:magenta_soul_candle",
-      "&rgb=13061821"
+      "soulcandles:magenta_soul_candle"
     ]
   }
 }

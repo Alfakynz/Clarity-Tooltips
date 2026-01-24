@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "lime_banner",
+      "lime_bed",
+      "lime_bundle",
+      "lime_candle",
+      "lime_carpet",
+      "lime_concrete",
+      "lime_concrete_powder",
+      "lime_dye",
+      "lime_glazed_terracotta",
+      "lime_harness",
+      "lime_shulker_box",
+      "lime_stained_glass",
+      "lime_stained_glass_pane",
+      "lime_terracotta",
+      "lime_wool",
       "farmersdelight:lime_canvas_sign",
       "farmersdelight:lime_hanging_canvas_sign",
-      "vanillabackport:lime_harness",
       "another_furniture:lime_stool",
       "another_furniture:lime_curtain",
       "another_furniture:lime_lamp",
       "another_furniture:lime_sofa",
       "another_furniture:lime_tall_stool",
+      "aether:lime_cape",
       "comforts:sleeping_bag_lime",
       "comforts:hammock_lime",
       "deeperdarker:lime_sculk_transmitter",
-      "soulcandles:lime_soul_candle",
-      "&rgb=8439583"
+      "soulcandles:lime_soul_candle"
     ]
   }
 }

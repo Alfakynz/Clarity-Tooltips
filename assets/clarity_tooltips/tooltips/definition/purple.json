@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "purple_banner",
+      "purple_bed",
+      "purple_bundle",
+      "purple_candle",
+      "purple_carpet",
+      "purple_concrete",
+      "purple_concrete_powder",
+      "purple_dye",
+      "purple_glazed_terracotta",
+      "purple_harness",
+      "purple_shulker_box",
+      "purple_stained_glass",
+      "purple_stained_glass_pane",
+      "purple_terracotta",
+      "purple_wool",
       "farmersdelight:purple_canvas_sign",
       "farmersdelight:purple_hanging_canvas_sign",
-      "vanillabackport:purple_harness",
       "another_furniture:purple_stool",
       "another_furniture:purple_curtain",
       "another_furniture:purple_lamp",
       "another_furniture:purple_sofa",
       "another_furniture:purple_tall_stool",
+      "aether:purple_cape",
       "comforts:sleeping_bag_purple",
       "comforts:hammock_purple",
       "deeperdarker:purple_sculk_transmitter",
-      "soulcandles:purple_soul_candle",
-      "&rgb=8991416"
+      "soulcandles:purple_soul_candle"
     ]
   }
 }

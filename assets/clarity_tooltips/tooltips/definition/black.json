@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "black_banner",
+      "black_bed",
+      "black_bundle",
+      "black_candle",
+      "black_carpet",
+      "black_concrete",
+      "black_concrete_powder",
+      "black_dye",
+      "black_glazed_terracotta",
+      "black_harness",
+      "black_shulker_box",
+      "black_stained_glass",
+      "black_stained_glass_pane",
+      "black_terracotta",
+      "black_wool",
       "farmersdelight:black_canvas_sign",
       "farmersdelight:black_hanging_canvas_sign",
-      "vanillabackport:black_harness",
       "another_furniture:black_stool",
       "another_furniture:black_curtain",
       "another_furniture:black_lamp",
       "another_furniture:black_sofa",
       "another_furniture:black_tall_stool",
+      "aether:black_cape",
       "comforts:sleeping_bag_black",
       "comforts:hammock_black",
       "deeperdarker:black_sculk_transmitter",
-      "soulcandles:black_soul_candle",
-      "&rgb=1908001"
+      "soulcandles:black_soul_candle"
     ]
   }
 }

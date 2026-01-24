@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "light_blue_banner",
+      "light_blue_bed",
+      "light_blue_bundle",
+      "light_blue_candle",
+      "light_blue_carpet",
+      "light_blue_concrete",
+      "light_blue_concrete_powder",
+      "light_blue_dye",
+      "light_blue_glazed_terracotta",
+      "light_blue_harness",
+      "light_blue_shulker_box",
+      "light_blue_stained_glass",
+      "light_blue_stained_glass_pane",
+      "light_blue_terracotta",
+      "light_blue_wool",
       "farmersdelight:light_blue_canvas_sign",
       "farmersdelight:light_blue_hanging_canvas_sign",
-      "vanillabackport:light_blue_harness",
       "another_furniture:light_blue_stool",
       "another_furniture:light_blue_curtain",
       "another_furniture:light_blue_lamp",
       "another_furniture:light_blue_sofa",
       "another_furniture:light_blue_tall_stool",
+      "aether:light_blue_cape",
       "comforts:sleeping_bag_light_blue",
       "comforts:hammock_light_blue",
       "deeperdarker:light_blue_sculk_transmitter",
-      "soulcandles:light_blue_soul_candle",
-      "&rgb=3847130"
+      "soulcandles:light_blue_soul_candle"
     ]
   }
 }

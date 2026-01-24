@@ -4,6 +4,11 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "wheat_seeds",
+      "pumpkin_seeds",
+      "melon_seeds",
+      "torchflower_seeds",
+      "beetroot_seeds",
       "cocoa_beans"
     ]
   }

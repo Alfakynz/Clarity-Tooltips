@@ -4,6 +4,8 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "crying_obsidian",
+      "obsidian",
       "respawn_anchor",
       "aether:obsidian_helmet",
       "aether:obsidian_chestplate",

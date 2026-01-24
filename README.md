@@ -10,89 +10,89 @@ Add beautiful borders in tooltips with Obscure Tooltips
 - [x] panel resonarium.json bgEndColor: auto
 - [x] panel resonarium.json startColor: auto
 - [x] panel resonarium.json endColor: auto
-- [ ] definition red.json values: $c:dyed/red
-- [ ] definition red.json values: $c:dyes/red
-- [ ] definition orange.json values: $c:dyed/orange
-- [ ] definition orange.json values: $c:dyes/orange
-- [ ] definition yellow.json values: $c:dyed/yellow
-- [ ] definition yellow.json values: $c:dyes/yellow
-- [ ] definition lime.json values: $c:dyed/lime
-- [ ] definition lime.json values: $c:dyes/lime
-- [ ] definition green.json values: $c:dyed/green
-- [ ] definition green.json values: $c:dyes/green
-- [ ] definition cyan.json values: $c:dyed/cyan
-- [ ] definition cyan.json values: $c:dyes/cyan
-- [ ] definition light_blue.json values: $c:dyed/light_blue
-- [ ] definition light_blue.json values: $c:dyes/light_blue
-- [ ] definition blue.json values: $c:dyed/blue
-- [ ] definition blue.json values: $c:dyes/blue
-- [ ] definition purple.json values: $c:dyed/purple
-- [ ] definition purple.json values: $c:dyes/purple
-- [ ] definition magenta.json values: $c:dyed/magenta
-- [ ] definition magenta.json values: $c:dyes/magenta
-- [ ] definition pink.json values: $c:dyed/pink
-- [ ] definition pink.json values: $c:dyes/pink
-- [ ] definition white.json values: $c:dyed/white
-- [ ] definition white.json values: $c:dyes/white
-- [ ] definition light_gray.json values: $c:dyed/light_gray
-- [ ] definition light_gray.json values: $c:dyes/light_gray
-- [ ] definition gray.json values: $c:dyed/gray
-- [ ] definition gray.json values: $c:dyes/gray
-- [ ] definition black.json values: $c:dyed/black
-- [ ] definition black.json values: $c:dyes/black
-- [ ] definition brown.json values: $c:dyed/brown
-- [ ] definition brown.json values: $c:dyes/brown
+- [x] definition red.json values: $c:dyed/red
+- [x] definition red.json values: $c:dyes/red
+- [x] definition orange.json values: $c:dyed/orange
+- [x] definition orange.json values: $c:dyes/orange
+- [x] definition yellow.json values: $c:dyed/yellow
+- [x] definition yellow.json values: $c:dyes/yellow
+- [x] definition lime.json values: $c:dyed/lime
+- [x] definition lime.json values: $c:dyes/lime
+- [x] definition green.json values: $c:dyed/green
+- [x] definition green.json values: $c:dyes/green
+- [x] definition cyan.json values: $c:dyed/cyan
+- [x] definition cyan.json values: $c:dyes/cyan
+- [x] definition light_blue.json values: $c:dyed/light_blue
+- [x] definition light_blue.json values: $c:dyes/light_blue
+- [x] definition blue.json values: $c:dyed/blue
+- [x] definition blue.json values: $c:dyes/blue
+- [x] definition purple.json values: $c:dyed/purple
+- [x] definition purple.json values: $c:dyes/purple
+- [x] definition magenta.json values: $c:dyed/magenta
+- [x] definition magenta.json values: $c:dyes/magenta
+- [x] definition pink.json values: $c:dyed/pink
+- [x] definition pink.json values: $c:dyes/pink
+- [x] definition white.json values: $c:dyed/white
+- [x] definition white.json values: $c:dyes/white
+- [x] definition light_gray.json values: $c:dyed/light_gray
+- [x] definition light_gray.json values: $c:dyes/light_gray
+- [x] definition gray.json values: $c:dyed/gray
+- [x] definition gray.json values: $c:dyes/gray
+- [x] definition black.json values: $c:dyed/black
+- [x] definition black.json values: $c:dyes/black
+- [x] definition brown.json values: $c:dyed/brown
+- [x] definition brown.json values: $c:dyes/brown
 - [x] panel netherite.json bgStartColor: auto
 - [x] panel netherite.json bgEndColor: auto
 - [x] panel netherite.json startColor: auto
 - [x] panel netherite.json endColor: auto
-- [ ] definition netherite.json values: $c:ingots/netherite
-- [ ] definition netherite.json values: $c:storage_blocks/netherite
+- [x] definition netherite.json values: $c:ingots/netherite
+- [x] definition netherite.json values: $c:storage_blocks/netherite
 - [x] panel diamond.json bgStartColor: auto
 - [x] panel diamond.json bgEndColor: auto
 - [x] panel diamond.json startColor: auto
 - [x] panel diamond.json endColor: auto
-- [ ] definition diamond.json values: $c:gems/diamond
-- [ ] definition diamond.json values: $c:storage_blocks/diamond
+- [x] definition diamond.json values: $c:gems/diamond
+- [x] definition diamond.json values: $c:storage_blocks/diamond
 - [x] panel gold.json bgStartColor: auto
 - [x] panel gold.json bgEndColor: auto
 - [x] panel gold.json startColor: auto
 - [x] panel gold.json endColor: auto
-- [ ] definition gold.json values: $c:ingots/gold
-- [ ] definition gold.json values: $c:storage_blocks/gold
+- [x] definition gold.json values: $c:ingots/gold
+- [x] definition gold.json values: $c:storage_blocks/gold
 - [x] panel iron.json bgStartColor: auto
 - [x] panel iron.json bgEndColor: auto
 - [x] panel iron.json startColor: auto
 - [x] panel iron.json endColor: auto
-- [ ] definition iron.json values: $c:ingots/iron
-- [ ] definition iron.json values: $c:storage_blocks/iron
-- [ ] definition iron.json values: $c:buckets
+- [x] definition iron.json values: $c:ingots/iron
+- [x] definition iron.json values: $c:storage_blocks/iron
+- [x] definition iron.json values: $c:buckets
 - [x] panel smoke_and_flames.json bgEndColor: auto
-- [ ] definition smoke_and_flames.json values: $c:rods/blaze
-- [ ] definition smoke_and_flames.json values: $c:ores/netherite_scrap
-- [ ] definition smoke_and_flames.json values: $c:netherracks
-- [ ] definition magic.json values: $c:gems/lapis
-- [ ] definition magic.json values: $c:storage_blocks/lapis
+- [x] definition smoke_and_flames.json values: $c:rods/blaze
+- [x] definition smoke_and_flames.json values: $c:ores/netherite_scrap
+- [x] definition smoke_and_flames.json values: $c:netherracks
+- [x] definition magic.json values: $c:gems/lapis
+- [x] definition magic.json values: $c:storage_blocks/lapis
 - [x] panel elite_equipment.json bgStartColor: auto
 - [x] panel elite_equipment.json bgEndColor: auto
-- [ ] definition obsidian.json values: $c:obsidians
-- [ ] definition copper_plating.json values: $c:ingots/copper
-- [ ] definition amethyst.json values: $c:gems/amethyst
+- [x] definition obsidian.json values: $c:obsidians
+- [x] definition copper_plating.json values: $c:ingots/copper
+- [x] definition amethyst.json values: $c:gems/amethyst
 - [x] panel command_blocks.json bgStartColor: auto
 - [x] panel command_blocks.json bgEndColor: auto
-- [ ] definition emerald.json values: $c:gems/emerald
-- [ ] definition emerald.json values: $c:storage_blocks/emerald
-- [ ] definition mushrooms.json values: $c:mushrooms
+- [x] definition emerald.json values: $c:gems/emerald
+- [x] definition emerald.json values: $c:storage_blocks/emerald
+- [x] definition mushrooms.json values: $c:mushrooms
 - [x] panel wind_stuff.json bgStartColor: auto
 - [x] panel wind_stuff.json bgEndColor: auto
-- [ ] definition brewing.json values: $c:potions
-- [ ] definition brewing.json values: $c:crops/nether_wart
-- [ ] definition redstone.json values: $c:dusts/redstone
-- [ ] definition redstone.json values: $c:storage_blocks/redstone
-- [ ] definition redstone.json values: $c:chests/trapped
-- [ ] definition enderman.json values: $c:ender_pearls
-- [ ] definition enderman.json values: $c:chests/ender
-- [ ] definition music_discs.json values: $c:music_discs
+- [x] definition brewing.json values: $c:potions
+- [x] definition brewing.json values: $c:crops/nether_wart
+- [x] definition redstone.json values: $c:dusts/redstone
+- [x] definition redstone.json values: $c:storage_blocks/redstone
+- [x] definition redstone.json values: $c:chests/trapped
+- [x] definition enderman.json values: $c:ender_pearls
+- [x] definition enderman.json values: $c:chests/ender
+- [x] definition music_discs.json values: $c:music_discs
 - [x] panel rose_quartz.json bgStartColor: auto
 - [x] panel rose_quartz.json bgEndColor: auto
 - [x] panel rose_quartz.json startColor: auto
@@ -134,7 +134,7 @@ Add beautiful borders in tooltips with Obscure Tooltips
 - [x] panel slime.json startColor: auto
 - [x] panel slime.json endColor: auto
 - [x] panel soul.json startColor: auto
-- [ ] definition seeds.json values: $c:seeds
+- [x] definition seeds.json values: $c:seeds
 - [x] panel cooked_beef.json startColor: auto
 - [x] panel beef.json startColor: auto
 - [x] panel opal.json bgStartColor: auto

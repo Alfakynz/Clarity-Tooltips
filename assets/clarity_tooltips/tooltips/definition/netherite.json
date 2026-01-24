@@ -4,6 +4,8 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "netherite_ingot",
+      "netherite_block",
       "netherite_sword",
       "netherite_shovel",
       "netherite_pickaxe",

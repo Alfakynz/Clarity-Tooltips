@@ -4,6 +4,9 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "redstone",
+      "redstone_block",
+      "trapped_chest",
       "redstone_torch",
       "repeater",
       "comparator",

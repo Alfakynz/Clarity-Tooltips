@@ -4,6 +4,7 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "bundle",
       "leather",
       "leather_helmet",
       "leather_chestplate",
@@ -11,7 +12,10 @@
       "leather_boots",
       "leather_horse_armor",
       "rabbit_hide",
-      "aether:leather_gloves"
+      "aether:leather_gloves",
+      "usefulbackpacks:backpack_small",
+      "usefulbackpacks:backpack_medium",
+      "usefulbackpacks:backpack_large"
     ]
   }
 }

@@ -4,6 +4,8 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "diamond",
+      "diamond_block",
       "diamond_sword",
       "diamond_shovel",
       "diamond_pickaxe",

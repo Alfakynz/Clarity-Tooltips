@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "orange_banner",
+      "orange_bed",
+      "orange_bundle",
+      "orange_candle",
+      "orange_carpet",
+      "orange_concrete",
+      "orange_concrete_powder",
+      "orange_dye",
+      "orange_glazed_terracotta",
+      "orange_harness",
+      "orange_shulker_box",
+      "orange_stained_glass",
+      "orange_stained_glass_pane",
+      "orange_terracotta",
+      "orange_wool",
       "farmersdelight:orange_canvas_sign",
       "farmersdelight:orange_hanging_canvas_sign",
-      "vanillabackport:orange_harness",
       "another_furniture:orange_stool",
       "another_furniture:orange_curtain",
       "another_furniture:orange_lamp",
       "another_furniture:orange_sofa",
       "another_furniture:orange_tall_stool",
+      "aether:orange_cape",
       "comforts:sleeping_bag_orange",
       "comforts:hammock_orange",
       "deeperdarker:orange_sculk_transmitter",
-      "soulcandles:orange_soul_candle",
-      "&rgb=16351261"
+      "soulcandles:orange_soul_candle"
     ]
   }
 }

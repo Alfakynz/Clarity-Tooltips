@@ -5,6 +5,8 @@
     "type": "obscure_tooltips:item",
     "values": [
       "mushroom_stem",
+      "brown_mushroom",
+      "red_mushroom",
       "brown_mushroom_block",
       "red_mushroom_block",
       "farmersdelight:red_mushroom_colony",

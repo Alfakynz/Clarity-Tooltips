@@ -4,19 +4,33 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "pink_banner",
+      "pink_bed",
+      "pink_bundle",
+      "pink_candle",
+      "pink_carpet",
+      "pink_concrete",
+      "pink_concrete_powder",
+      "pink_dye",
+      "pink_glazed_terracotta",
+      "pink_harness",
+      "pink_shulker_box",
+      "pink_stained_glass",
+      "pink_stained_glass_pane",
+      "pink_terracotta",
+      "pink_wool",
       "farmersdelight:pink_canvas_sign",
       "farmersdelight:pink_hanging_canvas_sign",
-      "vanillabackport:pink_harness",
       "another_furniture:pink_stool",
       "another_furniture:pink_curtain",
       "another_furniture:pink_lamp",
       "another_furniture:pink_sofa",
       "another_furniture:pink_tall_stool",
+      "aether:pink_cape",
       "comforts:sleeping_bag_pink",
       "comforts:hammock_pink",
       "deeperdarker:pink_sculk_transmitter",
-      "soulcandles:pink_soul_candle",
-      "&rgb=15961002"
+      "soulcandles:pink_soul_candle"
     ]
   }
 }
