@@ -4,6 +4,6 @@
     "supported_formats": [9, 1000],
     "min_format": [9, 0],
     "max_format": [1000, 0],
-    "description": "Adds beautiful tooltips."
+    "description": "Clarity Tooltips adds beautiful borders to tooltips using the Obscure Tooltips mod."
   }
 }

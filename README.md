@@ -1,157 +1,64 @@
-# Clarity Tooltips
+# 🌟 Clarity Tooltips
 
-Add beautiful borders in tooltips with Obscure Tooltips
+Clarity Tooltips adds beautiful borders to tooltips using the Obscure Tooltips mod.
 
-## To Fix
+## ✨ Compatibility
 
-- [x] panel brimstone.json startColor: auto
-- [x] panel brimstone.json endColor: auto
-- [x] panel resonarium.json bgStartColor: auto
-- [x] panel resonarium.json bgEndColor: auto
-- [x] panel resonarium.json startColor: auto
-- [x] panel resonarium.json endColor: auto
-- [x] definition red.json values: $c:dyed/red
-- [x] definition red.json values: $c:dyes/red
-- [x] definition orange.json values: $c:dyed/orange
-- [x] definition orange.json values: $c:dyes/orange
-- [x] definition yellow.json values: $c:dyed/yellow
-- [x] definition yellow.json values: $c:dyes/yellow
-- [x] definition lime.json values: $c:dyed/lime
-- [x] definition lime.json values: $c:dyes/lime
-- [x] definition green.json values: $c:dyed/green
-- [x] definition green.json values: $c:dyes/green
-- [x] definition cyan.json values: $c:dyed/cyan
-- [x] definition cyan.json values: $c:dyes/cyan
-- [x] definition light_blue.json values: $c:dyed/light_blue
-- [x] definition light_blue.json values: $c:dyes/light_blue
-- [x] definition blue.json values: $c:dyed/blue
-- [x] definition blue.json values: $c:dyes/blue
-- [x] definition purple.json values: $c:dyed/purple
-- [x] definition purple.json values: $c:dyes/purple
-- [x] definition magenta.json values: $c:dyed/magenta
-- [x] definition magenta.json values: $c:dyes/magenta
-- [x] definition pink.json values: $c:dyed/pink
-- [x] definition pink.json values: $c:dyes/pink
-- [x] definition white.json values: $c:dyed/white
-- [x] definition white.json values: $c:dyes/white
-- [x] definition light_gray.json values: $c:dyed/light_gray
-- [x] definition light_gray.json values: $c:dyes/light_gray
-- [x] definition gray.json values: $c:dyed/gray
-- [x] definition gray.json values: $c:dyes/gray
-- [x] definition black.json values: $c:dyed/black
-- [x] definition black.json values: $c:dyes/black
-- [x] definition brown.json values: $c:dyed/brown
-- [x] definition brown.json values: $c:dyes/brown
-- [x] panel netherite.json bgStartColor: auto
-- [x] panel netherite.json bgEndColor: auto
-- [x] panel netherite.json startColor: auto
-- [x] panel netherite.json endColor: auto
-- [x] definition netherite.json values: $c:ingots/netherite
-- [x] definition netherite.json values: $c:storage_blocks/netherite
-- [x] panel diamond.json bgStartColor: auto
-- [x] panel diamond.json bgEndColor: auto
-- [x] panel diamond.json startColor: auto
-- [x] panel diamond.json endColor: auto
-- [x] definition diamond.json values: $c:gems/diamond
-- [x] definition diamond.json values: $c:storage_blocks/diamond
-- [x] panel gold.json bgStartColor: auto
-- [x] panel gold.json bgEndColor: auto
-- [x] panel gold.json startColor: auto
-- [x] panel gold.json endColor: auto
-- [x] definition gold.json values: $c:ingots/gold
-- [x] definition gold.json values: $c:storage_blocks/gold
-- [x] panel iron.json bgStartColor: auto
-- [x] panel iron.json bgEndColor: auto
-- [x] panel iron.json startColor: auto
-- [x] panel iron.json endColor: auto
-- [x] definition iron.json values: $c:ingots/iron
-- [x] definition iron.json values: $c:storage_blocks/iron
-- [x] definition iron.json values: $c:buckets
-- [x] panel smoke_and_flames.json bgEndColor: auto
-- [x] definition smoke_and_flames.json values: $c:rods/blaze
-- [x] definition smoke_and_flames.json values: $c:ores/netherite_scrap
-- [x] definition smoke_and_flames.json values: $c:netherracks
-- [x] definition magic.json values: $c:gems/lapis
-- [x] definition magic.json values: $c:storage_blocks/lapis
-- [x] panel elite_equipment.json bgStartColor: auto
-- [x] panel elite_equipment.json bgEndColor: auto
-- [x] definition obsidian.json values: $c:obsidians
-- [x] definition copper_plating.json values: $c:ingots/copper
-- [x] definition amethyst.json values: $c:gems/amethyst
-- [x] panel command_blocks.json bgStartColor: auto
-- [x] panel command_blocks.json bgEndColor: auto
-- [x] definition emerald.json values: $c:gems/emerald
-- [x] definition emerald.json values: $c:storage_blocks/emerald
-- [x] definition mushrooms.json values: $c:mushrooms
-- [x] panel wind_stuff.json bgStartColor: auto
-- [x] panel wind_stuff.json bgEndColor: auto
-- [x] definition brewing.json values: $c:potions
-- [x] definition brewing.json values: $c:crops/nether_wart
-- [x] definition redstone.json values: $c:dusts/redstone
-- [x] definition redstone.json values: $c:storage_blocks/redstone
-- [x] definition redstone.json values: $c:chests/trapped
-- [x] definition enderman.json values: $c:ender_pearls
-- [x] definition enderman.json values: $c:chests/ender
-- [x] definition music_discs.json values: $c:music_discs
-- [x] panel rose_quartz.json bgStartColor: auto
-- [x] panel rose_quartz.json bgEndColor: auto
-- [x] panel rose_quartz.json startColor: auto
-- [x] panel rose_quartz.json endColor: auto
-- [x] panel quartz.json bgStartColor: auto
-- [x] panel quartz.json bgEndColor: auto
-- [x] panel quartz.json startColor: auto
-- [x] panel quartz.json endColor: auto
-- [x] panel silk_and_webs.json bgStartColor: auto
-- [x] panel silk_and_webs.json bgEndColor: auto
-- [x] panel silk_and_webs.json startColor: auto
-- [x] panel silk_and_webs.json endColor: auto
-- [x] panel ice.json startColor: auto
-- [x] panel ice.json endColor: auto
-- [x] panel arrows.json bgStartColor: auto
-- [x] panel arrows.json bgEndColor: auto
-- [x] panel chainmail.json bgStartColor: auto
-- [x] panel chainmail.json bgEndColor: auto
-- [x] panel chainmail.json startColor: auto
-- [x] panel chainmail.json endColor: auto
-- [x] panel gold_nugget.json bgStartColor: auto
-- [x] panel gold_nugget.json bgEndColor: auto
-- [x] panel gold_nugget.json startColor: auto
-- [x] panel gold_nugget.json endColor: auto
-- [x] panel wooden.json bgStartColor: auto
-- [x] panel wooden.json bgEndColor: auto
-- [x] panel wooden.json startColor: auto
-- [x] panel wooden.json endColor: auto
-- [x] panel leather.json bgStartColor: auto
-- [x] panel leather.json bgEndColor: auto
-- [x] panel leather.json startColor: auto
-- [x] panel leather.json endColor: auto
-- [x] panel prismarine.json bgStartColor: auto
-- [x] panel prismarine.json bgEndColor: auto
-- [x] panel prismarine.json startColor: auto
-- [x] panel prismarine.json endColor: auto
-- [x] panel slime.json bgStartColor: auto
-- [x] panel slime.json bgEndColor: auto
-- [x] panel slime.json startColor: auto
-- [x] panel slime.json endColor: auto
-- [x] panel soul.json startColor: auto
-- [x] definition seeds.json values: $c:seeds
-- [x] panel cooked_beef.json startColor: auto
-- [x] panel beef.json startColor: auto
-- [x] panel opal.json bgStartColor: auto
-- [x] panel opal.json bgEndColor: auto
-- [x] panel opal.json startColor: auto
-- [x] panel opal.json endColor: auto
-- [x] panel amber.json startColor: auto
-- [x] panel amber.json endColor: auto
-- [x] panel blue_pearlescent_mesoglea.json startColor: auto
-- [x] panel blue_pearlescent_mesoglea.json endColor: auto
-- [x] panel blue_mesoglea.json startColor: auto
-- [x] panel blue_mesoglea.json endColor: auto
-- [x] panel lime_mesoglea.json startColor: auto
-- [x] panel lime_mesoglea.json endColor: auto
-- [x] panel pink_mesoglea.json startColor: auto
-- [x] panel pink_mesoglea.json endColor: auto
-- [x] panel red_mesoglea.json startColor: auto
-- [x] panel red_mesoglea.json endColor: auto
-- [x] panel yellow_mesoglea.json startColor: auto
-- [x] panel yellow_mesoglea.json endColor: auto
+- [Aether](https://modrinth.com/project/YhmgMVyu) (some blocks/items)
+- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
+- [Comforts](https://modrinth.com/project/SaCpeal4)
+- [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
+- [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
+- [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
+- [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
+- [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
+- [Soul Candles](https://modrinth.com/project/XHXMTS5X)
+- [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
+- [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
+- [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
+
+## 🚀 Planned Features
+
+- [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
+- [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ)
+
+## 📦 Installation
+
+You can download Clarity Tooltips on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/clarity-tooltips)
+
+## ⚙️ Requirements
+
+You also need the following mod for it to work properly:
+
+- [Obscure Tooltips](https://modrinth.com/project/5vetjDBY)
+
+## 🙏 Credits
+
+- Thanks to [ObscuriaLithium](https://github.com/ObscuriaLithium) for [Obscure Tooltips](https://modrinth.com/project/5vetjDBY)
+- Thanks to [Teppy381](https://modrinth.com/user/sbPLRjEy) for [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
+
+And a big thanks as well to every other mod creator!! Your mods make the game even more amazing.
+
+## 🤝 Contributing
+
+Clarity Tooltips is a work in progress, and all suggestions are welcome.
+
+If you'd like to contribute:
+
+- Open an issue to suggest a mod compatibility, report a bug, or discuss a change
+- Submit a pull request if you have an improvement to propose (such as a compat addition, etc)
+- Make sure your changes follow the resource pack structure
+
+If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
+
+## 📦 Modpack
+
+Feel free to include Clarity Tooltips in modpacks.
+
+## 🌐 Looking for a server? Support me at the same time!
+
+Want to play with friends? Get your own server with [Wabbanode](http://wabbanode.com/affiliate/wildlight).
+
+Use the code **WILDLIGHT** to support me and get 25% off.
+
+[![Wabbanode server](https://i.postimg.cc/hvk4z0Vv/banner-3.png)](http://wabbanode.com/affiliate/wildlight)
