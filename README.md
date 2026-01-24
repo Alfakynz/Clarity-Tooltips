@@ -101,57 +101,57 @@ Add beautiful borders in tooltips with Obscure Tooltips
 - [x] panel quartz.json bgEndColor: auto
 - [x] panel quartz.json startColor: auto
 - [x] panel quartz.json endColor: auto
-- [ ] panel silk_and_webs.json bgStartColor: auto
-- [ ] panel silk_and_webs.json bgEndColor: auto
-- [ ] panel silk_and_webs.json startColor: auto
-- [ ] panel silk_and_webs.json endColor: auto
-- [ ] panel ice.json startColor: auto
-- [ ] panel ice.json endColor: auto
-- [ ] panel arrows.json bgStartColor: auto
-- [ ] panel arrows.json bgEndColor: auto
-- [ ] panel chainmail.json bgStartColor: auto
-- [ ] panel chainmail.json bgEndColor: auto
-- [ ] panel chainmail.json startColor: auto
-- [ ] panel chainmail.json endColor: auto
-- [ ] panel gold_nugget.json bgStartColor: auto
-- [ ] panel gold_nugget.json bgEndColor: auto
-- [ ] panel gold_nugget.json startColor: auto
-- [ ] panel gold_nugget.json endColor: auto
-- [ ] panel wooden.json bgStartColor: auto
-- [ ] panel wooden.json bgEndColor: auto
-- [ ] panel wooden.json startColor: auto
-- [ ] panel wooden.json endColor: auto
-- [ ] panel leather.json bgStartColor: auto
-- [ ] panel leather.json bgEndColor: auto
-- [ ] panel leather.json startColor: auto
-- [ ] panel leather.json endColor: auto
-- [ ] panel prismarine.json bgStartColor: auto
-- [ ] panel prismarine.json bgEndColor: auto
-- [ ] panel prismarine.json startColor: auto
-- [ ] panel prismarine.json endColor: auto
-- [ ] panel slime.json bgStartColor: auto
-- [ ] panel slime.json bgEndColor: auto
-- [ ] panel slime.json startColor: auto
-- [ ] panel slime.json endColor: auto
-- [ ] panel soul.json startColor: auto
+- [x] panel silk_and_webs.json bgStartColor: auto
+- [x] panel silk_and_webs.json bgEndColor: auto
+- [x] panel silk_and_webs.json startColor: auto
+- [x] panel silk_and_webs.json endColor: auto
+- [x] panel ice.json startColor: auto
+- [x] panel ice.json endColor: auto
+- [x] panel arrows.json bgStartColor: auto
+- [x] panel arrows.json bgEndColor: auto
+- [x] panel chainmail.json bgStartColor: auto
+- [x] panel chainmail.json bgEndColor: auto
+- [x] panel chainmail.json startColor: auto
+- [x] panel chainmail.json endColor: auto
+- [x] panel gold_nugget.json bgStartColor: auto
+- [x] panel gold_nugget.json bgEndColor: auto
+- [x] panel gold_nugget.json startColor: auto
+- [x] panel gold_nugget.json endColor: auto
+- [x] panel wooden.json bgStartColor: auto
+- [x] panel wooden.json bgEndColor: auto
+- [x] panel wooden.json startColor: auto
+- [x] panel wooden.json endColor: auto
+- [x] panel leather.json bgStartColor: auto
+- [x] panel leather.json bgEndColor: auto
+- [x] panel leather.json startColor: auto
+- [x] panel leather.json endColor: auto
+- [x] panel prismarine.json bgStartColor: auto
+- [x] panel prismarine.json bgEndColor: auto
+- [x] panel prismarine.json startColor: auto
+- [x] panel prismarine.json endColor: auto
+- [x] panel slime.json bgStartColor: auto
+- [x] panel slime.json bgEndColor: auto
+- [x] panel slime.json startColor: auto
+- [x] panel slime.json endColor: auto
+- [x] panel soul.json startColor: auto
 - [ ] definition seeds.json values: $c:seeds
-- [ ] panel cooked_beef.json startColor: auto
-- [ ] panel beef.json startColor: auto
-- [ ] panel opal.json bgStartColor: auto
-- [ ] panel opal.json bgEndColor: auto
-- [ ] panel opal.json startColor: auto
-- [ ] panel opal.json endColor: auto
-- [ ] panel amber.json startColor: auto
-- [ ] panel amber.json endColor: auto
-- [ ] panel blue_pearlescent_mesoglea.json startColor: auto
-- [ ] panel blue_pearlescent_mesoglea.json endColor: auto
-- [ ] panel blue_mesoglea.json startColor: auto
-- [ ] panel blue_mesoglea.json endColor: auto
-- [ ] panel lime_mesoglea.json startColor: auto
-- [ ] panel lime_mesoglea.json endColor: auto
-- [ ] panel pink_mesoglea.json startColor: auto
-- [ ] panel pink_mesoglea.json endColor: auto
-- [ ] panel red_mesoglea.json startColor: auto
-- [ ] panel red_mesoglea.json endColor: auto
-- [ ] panel yellow_mesoglea.json startColor: auto
-- [ ] panel yellow_mesoglea.json endColor: auto
+- [x] panel cooked_beef.json startColor: auto
+- [x] panel beef.json startColor: auto
+- [x] panel opal.json bgStartColor: auto
+- [x] panel opal.json bgEndColor: auto
+- [x] panel opal.json startColor: auto
+- [x] panel opal.json endColor: auto
+- [x] panel amber.json startColor: auto
+- [x] panel amber.json endColor: auto
+- [x] panel blue_pearlescent_mesoglea.json startColor: auto
+- [x] panel blue_pearlescent_mesoglea.json endColor: auto
+- [x] panel blue_mesoglea.json startColor: auto
+- [x] panel blue_mesoglea.json endColor: auto
+- [x] panel lime_mesoglea.json startColor: auto
+- [x] panel lime_mesoglea.json endColor: auto
+- [x] panel pink_mesoglea.json startColor: auto
+- [x] panel pink_mesoglea.json endColor: auto
+- [x] panel red_mesoglea.json startColor: auto
+- [x] panel red_mesoglea.json endColor: auto
+- [x] panel yellow_mesoglea.json startColor: auto
+- [x] panel yellow_mesoglea.json endColor: auto
