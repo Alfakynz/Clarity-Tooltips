@@ -3,9 +3,6 @@
   "style": "clarity_tooltips:soul",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "soul_sand",
-      "soul_soil"
-    ]
+    "values": ["soul_sand", "soul_soil"]
   }
 }

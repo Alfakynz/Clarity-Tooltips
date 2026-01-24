@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:tropical",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "tropical_fish"
-    ]
+    "values": ["tropical_fish"]
   }
 }

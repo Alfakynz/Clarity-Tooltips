@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:crab_claw",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "wilderwild:crab_claw"
-    ]
+    "values": ["wilderwild:crab_claw"]
   }
 }

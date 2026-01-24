@@ -19,17 +19,17 @@
       "yellow_stained_glass_pane",
       "yellow_terracotta",
       "yellow_wool",
-      "farmersdelight:yellow_canvas_sign",
-      "farmersdelight:yellow_hanging_canvas_sign",
-      "another_furniture:yellow_stool",
+      "aether:yellow_cape",
       "another_furniture:yellow_curtain",
       "another_furniture:yellow_lamp",
       "another_furniture:yellow_sofa",
+      "another_furniture:yellow_stool",
       "another_furniture:yellow_tall_stool",
-      "aether:yellow_cape",
-      "comforts:sleeping_bag_yellow",
       "comforts:hammock_yellow",
+      "comforts:sleeping_bag_yellow",
       "deeperdarker:yellow_sculk_transmitter",
+      "farmersdelight:yellow_canvas_sign",
+      "farmersdelight:yellow_hanging_canvas_sign",
       "soulcandles:yellow_soul_candle"
     ]
   }

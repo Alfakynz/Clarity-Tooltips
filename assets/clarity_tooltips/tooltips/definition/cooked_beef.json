@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:cooked_beef",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "cooked_beef"
-    ]
+    "values": ["cooked_beef"]
   }
 }

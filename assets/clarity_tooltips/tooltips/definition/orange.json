@@ -19,17 +19,17 @@
       "orange_stained_glass_pane",
       "orange_terracotta",
       "orange_wool",
-      "farmersdelight:orange_canvas_sign",
-      "farmersdelight:orange_hanging_canvas_sign",
-      "another_furniture:orange_stool",
+      "aether:orange_cape",
       "another_furniture:orange_curtain",
       "another_furniture:orange_lamp",
       "another_furniture:orange_sofa",
+      "another_furniture:orange_stool",
       "another_furniture:orange_tall_stool",
-      "aether:orange_cape",
-      "comforts:sleeping_bag_orange",
       "comforts:hammock_orange",
+      "comforts:sleeping_bag_orange",
       "deeperdarker:orange_sculk_transmitter",
+      "farmersdelight:orange_canvas_sign",
+      "farmersdelight:orange_hanging_canvas_sign",
       "soulcandles:orange_soul_candle"
     ]
   }

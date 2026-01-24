@@ -6,16 +6,16 @@
     "values": [
       "bundle",
       "leather",
-      "leather_helmet",
-      "leather_chestplate",
-      "leather_leggings",
       "leather_boots",
+      "leather_chestplate",
+      "leather_helmet",
       "leather_horse_armor",
+      "leather_leggings",
       "rabbit_hide",
       "aether:leather_gloves",
-      "usefulbackpacks:backpack_small",
+      "usefulbackpacks:backpack_large",
       "usefulbackpacks:backpack_medium",
-      "usefulbackpacks:backpack_large"
+      "usefulbackpacks:backpack_small"
     ]
   }
 }

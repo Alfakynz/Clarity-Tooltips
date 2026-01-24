@@ -5,19 +5,19 @@
     "type": "obscure_tooltips:item",
     "values": [
       "sculk",
-      "sculk_vein",
       "sculk_catalyst",
-      "sculk_shrieker",
       "sculk_sensor",
-      "deeperdarker:sculk_tendrils",
-      "deeperdarker:sculk_vines",
+      "sculk_shrieker",
+      "sculk_vein",
       "deeperdarker:infested_sculk",
       "deeperdarker:sculk_jaw",
+      "deeperdarker:sculk_tendrils",
+      "deeperdarker:sculk_vines",
+      "wilderwild:hanging_tendril",
       "wilderwild:osseous_sculk",
-      "wilderwild:sculk_stairs",
       "wilderwild:sculk_slab",
-      "wilderwild:sculk_wall",
-      "wilderwild:hanging_tendril"
+      "wilderwild:sculk_stairs",
+      "wilderwild:sculk_wall"
     ]
   }
 }

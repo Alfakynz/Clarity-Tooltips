@@ -4,11 +4,11 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "mace",
+      "elytra",
       "heavy_core",
+      "mace",
       "trident",
       "turtle_helmet",
-      "elytra",
       "customizableelytra:elytra_wing"
     ]
   }

@@ -4,21 +4,21 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "wilderwild:gabbro",
-      "wilderwild:geyser",
-      "wilderwild:gabbro_stairs",
-      "wilderwild:gabbro_slab",
-      "wilderwild:gabbro_wall",
-      "wilderwild:polished_gabbro",
-      "wilderwild:polished_gabbro_stairs",
-      "wilderwild:polished_gabbro_slab",
-      "wilderwild:polished_gabbro_wall",
-      "wilderwild:gabbro_bricks",
+      "wilderwild:chiseled_gabbro_bricks",
       "wilderwild:cracked_gabbro_bricks",
-      "wilderwild:gabbro_brick_stairs",
+      "wilderwild:gabbro",
       "wilderwild:gabbro_brick_slab",
+      "wilderwild:gabbro_brick_stairs",
       "wilderwild:gabbro_brick_wall",
-      "wilderwild:chiseled_gabbro_bricks"
+      "wilderwild:gabbro_bricks",
+      "wilderwild:gabbro_slab",
+      "wilderwild:gabbro_stairs",
+      "wilderwild:gabbro_wall",
+      "wilderwild:geyser",
+      "wilderwild:polished_gabbro",
+      "wilderwild:polished_gabbro_slab",
+      "wilderwild:polished_gabbro_stairs",
+      "wilderwild:polished_gabbro_wall"
     ]
   }
 }

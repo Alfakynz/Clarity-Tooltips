@@ -19,17 +19,17 @@
       "black_stained_glass_pane",
       "black_terracotta",
       "black_wool",
-      "farmersdelight:black_canvas_sign",
-      "farmersdelight:black_hanging_canvas_sign",
-      "another_furniture:black_stool",
+      "aether:black_cape",
       "another_furniture:black_curtain",
       "another_furniture:black_lamp",
       "another_furniture:black_sofa",
+      "another_furniture:black_stool",
       "another_furniture:black_tall_stool",
-      "aether:black_cape",
-      "comforts:sleeping_bag_black",
       "comforts:hammock_black",
+      "comforts:sleeping_bag_black",
       "deeperdarker:black_sculk_transmitter",
+      "farmersdelight:black_canvas_sign",
+      "farmersdelight:black_hanging_canvas_sign",
       "soulcandles:black_soul_candle"
     ]
   }

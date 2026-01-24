@@ -3,10 +3,6 @@
   "style": "clarity_tooltips:horn_coral",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "horn_coral_block",
-      "horn_coral",
-      "horn_coral_fan"
-    ]
+    "values": ["horn_coral", "horn_coral_block", "horn_coral_fan"]
   }
 }

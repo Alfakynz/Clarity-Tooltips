@@ -4,14 +4,14 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "pyrellium:opal",
-      "pyrellium:small_opal_bud",
-      "pyrellium:medium_opal_bud",
-      "pyrellium:large_opal_bud",
-      "pyrellium:opal_cluster",
       "pyrellium:budding_opal",
+      "pyrellium:clear_opal_block",
+      "pyrellium:large_opal_bud",
+      "pyrellium:medium_opal_bud",
+      "pyrellium:opal",
       "pyrellium:opal_block",
-      "pyrellium:clear_opal_block"
+      "pyrellium:opal_cluster",
+      "pyrellium:small_opal_bud"
     ]
   }
 }

@@ -4,10 +4,10 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "pyrellium:burning_nylium",
       "pyrellium:burning_roots",
       "pyrellium:burning_sprouts",
-      "pyrellium:burning_vines",
-      "pyrellium:burning_nylium"
+      "pyrellium:burning_vines"
     ]
   }
 }

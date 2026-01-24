@@ -19,17 +19,17 @@
       "lime_stained_glass_pane",
       "lime_terracotta",
       "lime_wool",
-      "farmersdelight:lime_canvas_sign",
-      "farmersdelight:lime_hanging_canvas_sign",
-      "another_furniture:lime_stool",
+      "aether:lime_cape",
       "another_furniture:lime_curtain",
       "another_furniture:lime_lamp",
       "another_furniture:lime_sofa",
+      "another_furniture:lime_stool",
       "another_furniture:lime_tall_stool",
-      "aether:lime_cape",
-      "comforts:sleeping_bag_lime",
       "comforts:hammock_lime",
+      "comforts:sleeping_bag_lime",
       "deeperdarker:lime_sculk_transmitter",
+      "farmersdelight:lime_canvas_sign",
+      "farmersdelight:lime_hanging_canvas_sign",
       "soulcandles:lime_soul_candle"
     ]
   }

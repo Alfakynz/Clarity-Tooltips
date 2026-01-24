@@ -4,22 +4,22 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "cauldron",
       "brewing_stand",
+      "cauldron",
+      "dragon_breath",
       "fermented_spider_eye",
-      "spider_eye",
       "ghast_tear",
+      "glistering_melon_slice",
       "lingering_potion",
       "magma_cream",
       "nether_wart",
+      "phantom_membrane",
       "potion",
       "pufferfish",
+      "rabbit_foot",
+      "spider_eye",
       "splash_potion",
       "sugar",
-      "rabbit_foot",
-      "phantom_membrane",
-      "glistering_melon_slice",
-      "dragon_breath",
       "beansbackpacks:alchemy_bag"
     ]
   }

@@ -4,17 +4,17 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "command_block",
+      "barrier",
       "chain_command_block",
-      "repeating_command_block",
+      "command_block",
       "command_block_minecart",
-      "structure_void",
-      "structure_block",
-      "jigsaw",
       "debug_stick",
+      "jigsaw",
       "knowledge_book",
       "light",
-      "barrier"
+      "repeating_command_block",
+      "structure_block",
+      "structure_void"
     ]
   }
 }

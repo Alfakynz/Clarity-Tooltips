@@ -4,15 +4,15 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "packed_mud",
-      "mud_bricks",
-      "mud_brick_stairs",
-      "mud_brick_slab",
-      "mud_brick_wall",
       "mud",
+      "mud_brick_slab",
+      "mud_brick_stairs",
+      "mud_brick_wall",
+      "mud_bricks",
       "muddy_mangrove_roots",
-      "wilderwild:cracked_mud_bricks",
-      "wilderwild:chiseled_mud_bricks"
+      "packed_mud",
+      "wilderwild:chiseled_mud_bricks",
+      "wilderwild:cracked_mud_bricks"
     ]
   }
 }

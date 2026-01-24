@@ -4,14 +4,14 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "resin_block",
-      "resin_bricks",
       "chiseled_resin_bricks",
-      "resin_brick_stairs",
+      "resin_block",
+      "resin_brick",
       "resin_brick_slab",
+      "resin_brick_stairs",
       "resin_brick_wall",
-      "resin_clump",
-      "resin_brick"
+      "resin_bricks",
+      "resin_clump"
     ]
   }
 }

@@ -3,9 +3,6 @@
   "style": "clarity_tooltips:red_mesoglea",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "wilderwild:red_mesoglea",
-      "wilderwild:red_nematocyst"
-    ]
+    "values": ["wilderwild:red_mesoglea", "wilderwild:red_nematocyst"]
   }
 }

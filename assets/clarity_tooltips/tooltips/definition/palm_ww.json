@@ -4,25 +4,25 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "wilderwild:palm_log",
-      "wilderwild:palm_wood",
-      "wilderwild:stripped_palm_log",
-      "wilderwild:stripped_palm_wood",
       "wilderwild:hollowed_palm_log",
-      "wilderwild:stripped_hollowed_palm_log",
-      "wilderwild:palm_planks",
-      "wilderwild:palm_stairs",
-      "wilderwild:palm_slab",
+      "wilderwild:palm_boat",
+      "wilderwild:palm_button",
+      "wilderwild:palm_chest_boat",
+      "wilderwild:palm_door",
       "wilderwild:palm_fence",
       "wilderwild:palm_fence_gate",
-      "wilderwild:palm_door",
-      "wilderwild:palm_trapdoor",
-      "wilderwild:palm_pressure_plate",
-      "wilderwild:palm_button",
-      "wilderwild:palm_sign",
       "wilderwild:palm_hanging_sign",
-      "wilderwild:palm_chest_boat",
-      "wilderwild:palm_boat"
+      "wilderwild:palm_log",
+      "wilderwild:palm_planks",
+      "wilderwild:palm_pressure_plate",
+      "wilderwild:palm_sign",
+      "wilderwild:palm_slab",
+      "wilderwild:palm_stairs",
+      "wilderwild:palm_trapdoor",
+      "wilderwild:palm_wood",
+      "wilderwild:stripped_hollowed_palm_log",
+      "wilderwild:stripped_palm_log",
+      "wilderwild:stripped_palm_wood"
     ]
   }
 }

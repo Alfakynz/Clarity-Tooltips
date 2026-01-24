@@ -4,24 +4,24 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "iron_door",
-      "iron_trapdoor",
-      "iron_bars",
-      "iron_block",
       "#minecraft:anvil",
       "#minecraft:rails",
-      "minecart",
+      "chain",
       "chest_minecart",
       "furnace_minecart",
+      "goat_horn",
       "hopper_minecart",
-      "tnt_minecart",
-      "chain",
+      "iron_bars",
+      "iron_block",
+      "iron_door",
+      "iron_trapdoor",
       "lantern",
+      "minecart",
       "soul_lantern",
+      "spawner",
+      "tnt_minecart",
       "copperhopper:copper_hopper_minecart",
       "thecopperrail:copper_rail",
-      "goat_horn",
-      "spawner",
       "wilderwild:display_lantern"
     ]
   }

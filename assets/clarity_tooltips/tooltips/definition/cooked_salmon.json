@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:cooked_salmon",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "cooked_salmon"
-    ]
+    "values": ["cooked_salmon"]
   }
 }

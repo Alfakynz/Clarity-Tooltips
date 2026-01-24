@@ -5,23 +5,23 @@
     "type": "obscure_tooltips:item",
     "values": [
       "biomesoplenty:enriched_hellbark_log",
-      "biomesoplenty:hellbark_log",
-      "biomesoplenty:hellbark_wood",
-      "biomesoplenty:stripped_hellbark_log",
-      "biomesoplenty:stripped_hellbark_wood",
-      "biomesoplenty:hellbark_planks",
-      "biomesoplenty:hellbark_stairs",
-      "biomesoplenty:hellbark_slab",
+      "biomesoplenty:hellbark_boat",
+      "biomesoplenty:hellbark_button",
+      "biomesoplenty:hellbark_chest_boat",
+      "biomesoplenty:hellbark_door",
       "biomesoplenty:hellbark_fence",
       "biomesoplenty:hellbark_fence_gate",
-      "biomesoplenty:hellbark_door",
-      "biomesoplenty:hellbark_trapdoor",
+      "biomesoplenty:hellbark_hanging_sign",
+      "biomesoplenty:hellbark_log",
+      "biomesoplenty:hellbark_planks",
       "biomesoplenty:hellbark_pressure_plate",
-      "biomesoplenty:hellbark_button",
-      "biomesoplenty:hellbark_boat",
-      "biomesoplenty:hellbark_chest_boat",
       "biomesoplenty:hellbark_sign",
-      "biomesoplenty:hellbark_hanging_sign"
+      "biomesoplenty:hellbark_slab",
+      "biomesoplenty:hellbark_stairs",
+      "biomesoplenty:hellbark_trapdoor",
+      "biomesoplenty:hellbark_wood",
+      "biomesoplenty:stripped_hellbark_log",
+      "biomesoplenty:stripped_hellbark_wood"
     ]
   }
 }

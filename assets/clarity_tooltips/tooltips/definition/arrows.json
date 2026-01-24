@@ -4,9 +4,9 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "arrow",
       "bow",
       "crossbow",
-      "arrow",
       "spectral_arrow",
       "tipped_arrow",
       "aether:phoenix_bow",

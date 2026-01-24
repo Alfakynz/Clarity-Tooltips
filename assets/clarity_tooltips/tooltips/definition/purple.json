@@ -19,17 +19,17 @@
       "purple_stained_glass_pane",
       "purple_terracotta",
       "purple_wool",
-      "farmersdelight:purple_canvas_sign",
-      "farmersdelight:purple_hanging_canvas_sign",
-      "another_furniture:purple_stool",
+      "aether:purple_cape",
       "another_furniture:purple_curtain",
       "another_furniture:purple_lamp",
       "another_furniture:purple_sofa",
+      "another_furniture:purple_stool",
       "another_furniture:purple_tall_stool",
-      "aether:purple_cape",
-      "comforts:sleeping_bag_purple",
       "comforts:hammock_purple",
+      "comforts:sleeping_bag_purple",
       "deeperdarker:purple_sculk_transmitter",
+      "farmersdelight:purple_canvas_sign",
+      "farmersdelight:purple_hanging_canvas_sign",
       "soulcandles:purple_soul_candle"
     ]
   }

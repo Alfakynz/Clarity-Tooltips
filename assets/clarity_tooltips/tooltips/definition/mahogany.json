@@ -5,23 +5,23 @@
     "type": "obscure_tooltips:item",
     "values": [
       "biomesoplenty:enriched_mahogany_log",
-      "biomesoplenty:mahogany_log",
-      "biomesoplenty:mahogany_wood",
-      "biomesoplenty:stripped_mahogany_log",
-      "biomesoplenty:stripped_mahogany_wood",
-      "biomesoplenty:mahogany_planks",
-      "biomesoplenty:mahogany_stairs",
-      "biomesoplenty:mahogany_slab",
+      "biomesoplenty:mahogany_boat",
+      "biomesoplenty:mahogany_button",
+      "biomesoplenty:mahogany_chest_boat",
+      "biomesoplenty:mahogany_door",
       "biomesoplenty:mahogany_fence",
       "biomesoplenty:mahogany_fence_gate",
-      "biomesoplenty:mahogany_door",
-      "biomesoplenty:mahogany_trapdoor",
+      "biomesoplenty:mahogany_hanging_sign",
+      "biomesoplenty:mahogany_log",
+      "biomesoplenty:mahogany_planks",
       "biomesoplenty:mahogany_pressure_plate",
-      "biomesoplenty:mahogany_button",
-      "biomesoplenty:mahogany_boat",
-      "biomesoplenty:mahogany_chest_boat",
       "biomesoplenty:mahogany_sign",
-      "biomesoplenty:mahogany_hanging_sign"
+      "biomesoplenty:mahogany_slab",
+      "biomesoplenty:mahogany_stairs",
+      "biomesoplenty:mahogany_trapdoor",
+      "biomesoplenty:mahogany_wood",
+      "biomesoplenty:stripped_mahogany_log",
+      "biomesoplenty:stripped_mahogany_wood"
     ]
   }
 }

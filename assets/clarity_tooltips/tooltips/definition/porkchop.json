@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:porkchop",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "porkchop"
-    ]
+    "values": ["porkchop"]
   }
 }

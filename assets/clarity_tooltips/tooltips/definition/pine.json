@@ -5,23 +5,23 @@
     "type": "obscure_tooltips:item",
     "values": [
       "biomesoplenty:enriched_pine_log",
-      "biomesoplenty:pine_log",
-      "biomesoplenty:pine_wood",
-      "biomesoplenty:stripped_pine_log",
-      "biomesoplenty:stripped_pine_wood",
-      "biomesoplenty:pine_planks",
-      "biomesoplenty:pine_stairs",
-      "biomesoplenty:pine_slab",
+      "biomesoplenty:pine_boat",
+      "biomesoplenty:pine_button",
+      "biomesoplenty:pine_chest_boat",
+      "biomesoplenty:pine_door",
       "biomesoplenty:pine_fence",
       "biomesoplenty:pine_fence_gate",
-      "biomesoplenty:pine_door",
-      "biomesoplenty:pine_trapdoor",
+      "biomesoplenty:pine_hanging_sign",
+      "biomesoplenty:pine_log",
+      "biomesoplenty:pine_planks",
       "biomesoplenty:pine_pressure_plate",
-      "biomesoplenty:pine_button",
-      "biomesoplenty:pine_boat",
-      "biomesoplenty:pine_chest_boat",
       "biomesoplenty:pine_sign",
-      "biomesoplenty:pine_hanging_sign"
+      "biomesoplenty:pine_slab",
+      "biomesoplenty:pine_stairs",
+      "biomesoplenty:pine_trapdoor",
+      "biomesoplenty:pine_wood",
+      "biomesoplenty:stripped_pine_log",
+      "biomesoplenty:stripped_pine_wood"
     ]
   }
 }

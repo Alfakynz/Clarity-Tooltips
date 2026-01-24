@@ -19,17 +19,17 @@
       "green_stained_glass_pane",
       "green_terracotta",
       "green_wool",
-      "farmersdelight:green_canvas_sign",
-      "farmersdelight:green_hanging_canvas_sign",
-      "another_furniture:green_stool",
+      "aether:green_cape",
       "another_furniture:green_curtain",
       "another_furniture:green_lamp",
       "another_furniture:green_sofa",
+      "another_furniture:green_stool",
       "another_furniture:green_tall_stool",
-      "aether:green_cape",
-      "comforts:sleeping_bag_green",
       "comforts:hammock_green",
+      "comforts:sleeping_bag_green",
       "deeperdarker:green_sculk_transmitter",
+      "farmersdelight:green_canvas_sign",
+      "farmersdelight:green_hanging_canvas_sign",
       "soulcandles:green_soul_candle"
     ]
   }

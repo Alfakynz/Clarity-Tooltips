@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:cooked_crab_claw",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "wilderwild:cooked_crab_claw"
-    ]
+    "values": ["wilderwild:cooked_crab_claw"]
   }
 }

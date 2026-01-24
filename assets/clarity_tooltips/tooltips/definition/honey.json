@@ -5,10 +5,10 @@
     "type": "obscure_tooltips:item",
     "values": [
       "bee_nest",
-      "honeycomb",
-      "honeycomb_block",
       "honey_block",
-      "honey_bottle"
+      "honey_bottle",
+      "honeycomb",
+      "honeycomb_block"
     ]
   }
 }

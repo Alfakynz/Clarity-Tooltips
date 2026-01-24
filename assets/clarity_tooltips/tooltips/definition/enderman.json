@@ -4,17 +4,17 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "end_portal_frame",
-      "ender_eye",
-      "ender_pearl",
-      "ender_chest",
-      "shulker_shell",
-      "chorus_plant",
       "chorus_flower",
       "chorus_fruit",
-      "popped_chorus_fruit",
+      "chorus_plant",
+      "end_portal_frame",
       "end_rod",
+      "ender_chest",
+      "ender_eye",
+      "ender_pearl",
+      "popped_chorus_fruit",
       "shulker_box",
+      "shulker_shell",
       "usefulbackpacks:backpack_enderchest"
     ]
   }

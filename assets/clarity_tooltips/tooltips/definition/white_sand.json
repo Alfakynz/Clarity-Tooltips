@@ -4,18 +4,18 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "biomesoplenty:white_sand",
-      "biomesoplenty:white_sandstone",
-      "biomesoplenty:white_sandstone_stairs",
-      "biomesoplenty:white_sandstone_slab",
-      "biomesoplenty:white_sandstone_wall",
-      "biomesoplenty:smooth_white_sandstone",
-      "biomesoplenty:smooth_white_sandstone_stairs",
-      "biomesoplenty:smooth_white_sandstone_slab",
-      "biomesoplenty:smooth_white_sandstone_wall",
+      "biomesoplenty:chiseled_white_sandstone",
       "biomesoplenty:cut_white_sandstone",
       "biomesoplenty:cut_white_sandstone_slab",
-      "biomesoplenty:chiseled_white_sandstone"
+      "biomesoplenty:smooth_white_sandstone",
+      "biomesoplenty:smooth_white_sandstone_slab",
+      "biomesoplenty:smooth_white_sandstone_stairs",
+      "biomesoplenty:smooth_white_sandstone_wall",
+      "biomesoplenty:white_sand",
+      "biomesoplenty:white_sandstone",
+      "biomesoplenty:white_sandstone_slab",
+      "biomesoplenty:white_sandstone_stairs",
+      "biomesoplenty:white_sandstone_wall"
     ]
   }
 }

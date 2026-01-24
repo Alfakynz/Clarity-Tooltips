@@ -7,10 +7,10 @@
       "deeperdarker:grime_ball",
       "deeperdarker:grime_brick",
       "deeperdarker:sculk_grime",
-      "deeperdarker:sculk_grime_bricks",
-      "deeperdarker:sculk_grime_brick_stairs",
       "deeperdarker:sculk_grime_brick_slab",
-      "deeperdarker:sculk_grime_brick_wall"
+      "deeperdarker:sculk_grime_brick_stairs",
+      "deeperdarker:sculk_grime_brick_wall",
+      "deeperdarker:sculk_grime_bricks"
     ]
   }
 }

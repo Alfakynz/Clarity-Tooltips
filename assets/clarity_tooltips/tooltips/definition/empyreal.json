@@ -4,24 +4,24 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "biomesoplenty:enriched_empyreal_log",
-      "biomesoplenty:empyreal_log",
-      "biomesoplenty:empyreal_wood",
-      "biomesoplenty:stripped_empyreal_log",
-      "biomesoplenty:stripped_empyreal_wood",
-      "biomesoplenty:empyreal_planks",
-      "biomesoplenty:empyreal_stairs",
-      "biomesoplenty:empyreal_slab",
+      "biomesoplenty:empyreal_boat",
+      "biomesoplenty:empyreal_button",
+      "biomesoplenty:empyreal_chest_boat",
+      "biomesoplenty:empyreal_door",
       "biomesoplenty:empyreal_fence",
       "biomesoplenty:empyreal_fence_gate",
-      "biomesoplenty:empyreal_door",
-      "biomesoplenty:empyreal_trapdoor",
+      "biomesoplenty:empyreal_hanging_sign",
+      "biomesoplenty:empyreal_log",
+      "biomesoplenty:empyreal_planks",
       "biomesoplenty:empyreal_pressure_plate",
-      "biomesoplenty:empyreal_button",
-      "biomesoplenty:empyreal_boat",
-      "biomesoplenty:empyreal_chest_boat",
       "biomesoplenty:empyreal_sign",
-      "biomesoplenty:empyreal_hanging_sign"
+      "biomesoplenty:empyreal_slab",
+      "biomesoplenty:empyreal_stairs",
+      "biomesoplenty:empyreal_trapdoor",
+      "biomesoplenty:empyreal_wood",
+      "biomesoplenty:enriched_empyreal_log",
+      "biomesoplenty:stripped_empyreal_log",
+      "biomesoplenty:stripped_empyreal_wood"
     ]
   }
 }

@@ -19,17 +19,17 @@
       "magenta_stained_glass_pane",
       "magenta_terracotta",
       "magenta_wool",
-      "farmersdelight:magenta_canvas_sign",
-      "farmersdelight:magenta_hanging_canvas_sign",
-      "another_furniture:magenta_stool",
+      "aether:magenta_cape",
       "another_furniture:magenta_curtain",
       "another_furniture:magenta_lamp",
       "another_furniture:magenta_sofa",
+      "another_furniture:magenta_stool",
       "another_furniture:magenta_tall_stool",
-      "aether:magenta_cape",
-      "comforts:sleeping_bag_magenta",
       "comforts:hammock_magenta",
+      "comforts:sleeping_bag_magenta",
       "deeperdarker:magenta_sculk_transmitter",
+      "farmersdelight:magenta_canvas_sign",
+      "farmersdelight:magenta_hanging_canvas_sign",
       "soulcandles:magenta_soul_candle"
     ]
   }

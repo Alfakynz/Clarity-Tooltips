@@ -6,16 +6,16 @@
     "values": [
       "biomesoplenty:black_sand",
       "biomesoplenty:black_sandstone",
-      "biomesoplenty:black_sandstone_stairs",
       "biomesoplenty:black_sandstone_slab",
+      "biomesoplenty:black_sandstone_stairs",
       "biomesoplenty:black_sandstone_wall",
-      "biomesoplenty:smooth_black_sandstone",
-      "biomesoplenty:smooth_black_sandstone_stairs",
-      "biomesoplenty:smooth_black_sandstone_slab",
-      "biomesoplenty:smooth_black_sandstone_wall",
+      "biomesoplenty:chiseled_black_sandstone",
       "biomesoplenty:cut_black_sandstone",
       "biomesoplenty:cut_black_sandstone_slab",
-      "biomesoplenty:chiseled_black_sandstone"
+      "biomesoplenty:smooth_black_sandstone",
+      "biomesoplenty:smooth_black_sandstone_slab",
+      "biomesoplenty:smooth_black_sandstone_stairs",
+      "biomesoplenty:smooth_black_sandstone_wall"
     ]
   }
 }

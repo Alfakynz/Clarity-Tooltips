@@ -19,17 +19,17 @@
       "light_blue_stained_glass_pane",
       "light_blue_terracotta",
       "light_blue_wool",
-      "farmersdelight:light_blue_canvas_sign",
-      "farmersdelight:light_blue_hanging_canvas_sign",
-      "another_furniture:light_blue_stool",
+      "aether:light_blue_cape",
       "another_furniture:light_blue_curtain",
       "another_furniture:light_blue_lamp",
       "another_furniture:light_blue_sofa",
+      "another_furniture:light_blue_stool",
       "another_furniture:light_blue_tall_stool",
-      "aether:light_blue_cape",
-      "comforts:sleeping_bag_light_blue",
       "comforts:hammock_light_blue",
+      "comforts:sleeping_bag_light_blue",
       "deeperdarker:light_blue_sculk_transmitter",
+      "farmersdelight:light_blue_canvas_sign",
+      "farmersdelight:light_blue_hanging_canvas_sign",
       "soulcandles:light_blue_soul_candle"
     ]
   }

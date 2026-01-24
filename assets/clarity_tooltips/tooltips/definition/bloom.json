@@ -4,21 +4,21 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "deeperdarker:blooming_stem",
-      "deeperdarker:stripped_blooming_stem",
-      "deeperdarker:bloom_planks",
-      "deeperdarker:bloom_stairs",
-      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_boat",
+      "deeperdarker:bloom_button",
+      "deeperdarker:bloom_chest_boat",
+      "deeperdarker:bloom_door",
       "deeperdarker:bloom_fence",
       "deeperdarker:bloom_fence_gate",
-      "deeperdarker:bloom_door",
-      "deeperdarker:bloom_trapdoor",
+      "deeperdarker:bloom_hanging_sign",
+      "deeperdarker:bloom_planks",
       "deeperdarker:bloom_pressure_plate",
-      "deeperdarker:bloom_button",
-      "deeperdarker:bloom_boat",
-      "deeperdarker:bloom_chest_boat",
       "deeperdarker:bloom_sign",
-      "deeperdarker:bloom_hanging_sign"
+      "deeperdarker:bloom_slab",
+      "deeperdarker:bloom_stairs",
+      "deeperdarker:bloom_trapdoor",
+      "deeperdarker:blooming_stem",
+      "deeperdarker:stripped_blooming_stem"
     ]
   }
 }

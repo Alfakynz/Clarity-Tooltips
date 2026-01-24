@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:cooked_rabbit",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "cooked_rabbit"
-    ]
+    "values": ["cooked_rabbit"]
   }
 }

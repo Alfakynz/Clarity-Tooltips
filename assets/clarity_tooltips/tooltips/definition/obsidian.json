@@ -7,11 +7,11 @@
       "crying_obsidian",
       "obsidian",
       "respawn_anchor",
-      "aether:obsidian_helmet",
-      "aether:obsidian_chestplate",
-      "aether:obsidian_leggings",
       "aether:obsidian_boots",
-      "aether:obsidian_gloves"
+      "aether:obsidian_chestplate",
+      "aether:obsidian_gloves",
+      "aether:obsidian_helmet",
+      "aether:obsidian_leggings"
     ]
   }
 }

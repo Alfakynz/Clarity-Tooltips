@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:cooked_mutton",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "cooked_mutton"
-    ]
+    "values": ["cooked_mutton"]
   }
 }

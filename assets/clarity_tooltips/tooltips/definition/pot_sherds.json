@@ -6,9 +6,8 @@
     "values": [
       "#minecraft:decorated_pot_sherds",
       "decorated_pot",
-      "flower_pot",
-      "%Potted",
-      "deeperdarker:ancient_vase"
+      "deeperdarker:ancient_vase",
+      "flower_pot"
     ]
   }
 }

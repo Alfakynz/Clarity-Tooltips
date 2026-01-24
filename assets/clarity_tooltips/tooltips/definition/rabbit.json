@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:rabbit",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "rabbit"
-    ]
+    "values": ["rabbit"]
   }
 }

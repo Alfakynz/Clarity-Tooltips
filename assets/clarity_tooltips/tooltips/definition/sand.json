@@ -4,17 +4,17 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "sandstone",
-      "sandstone_stairs",
-      "sandstone_slab",
-      "sandstone_wall",
       "chiseled_sandstone",
-      "smooth_sandstone",
-      "smooth_sandstone_stairs",
-      "smooth_sandstone_slab",
       "cut_sandstone",
       "cut_sandstone_slab",
       "sand",
+      "sandstone",
+      "sandstone_slab",
+      "sandstone_stairs",
+      "sandstone_wall",
+      "smooth_sandstone",
+      "smooth_sandstone_slab",
+      "smooth_sandstone_stairs",
       "suspicious_sand",
       "wilderwild:scorched_sand"
     ]

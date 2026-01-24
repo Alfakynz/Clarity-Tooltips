@@ -4,23 +4,23 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "biomesoplenty:palm_log",
-      "biomesoplenty:palm_wood",
-      "biomesoplenty:stripped_palm_log",
-      "biomesoplenty:stripped_palm_wood",
-      "biomesoplenty:palm_planks",
-      "biomesoplenty:palm_stairs",
-      "biomesoplenty:palm_slab",
+      "biomesoplenty:palm_boat",
+      "biomesoplenty:palm_button",
+      "biomesoplenty:palm_chest_boat",
+      "biomesoplenty:palm_door",
       "biomesoplenty:palm_fence",
       "biomesoplenty:palm_fence_gate",
-      "biomesoplenty:palm_door",
-      "biomesoplenty:palm_trapdoor",
-      "biomesoplenty:palm_pressure_plate",
-      "biomesoplenty:palm_button",
-      "biomesoplenty:palm_sign",
       "biomesoplenty:palm_hanging_sign",
-      "biomesoplenty:palm_chest_boat",
-      "biomesoplenty:palm_boat"
+      "biomesoplenty:palm_log",
+      "biomesoplenty:palm_planks",
+      "biomesoplenty:palm_pressure_plate",
+      "biomesoplenty:palm_sign",
+      "biomesoplenty:palm_slab",
+      "biomesoplenty:palm_stairs",
+      "biomesoplenty:palm_trapdoor",
+      "biomesoplenty:palm_wood",
+      "biomesoplenty:stripped_palm_log",
+      "biomesoplenty:stripped_palm_wood"
     ]
   }
 }

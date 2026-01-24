@@ -3,9 +3,6 @@
   "style": "clarity_tooltips:verdant_froglight",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "verdant_froglight",
-      "wilderwild:verdant_froglight_goop"
-    ]
+    "values": ["verdant_froglight", "wilderwild:verdant_froglight_goop"]
   }
 }

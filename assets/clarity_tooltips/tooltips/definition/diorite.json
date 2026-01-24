@@ -5,8 +5,8 @@
     "type": "obscure_tooltips:item",
     "values": [
       "diorite",
-      "diorite_stairs",
       "diorite_slab",
+      "diorite_stairs",
       "diorite_wall",
       "polished_diorite",
       "polished_diorite_slab",

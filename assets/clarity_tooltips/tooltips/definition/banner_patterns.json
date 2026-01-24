@@ -4,14 +4,14 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "flower_banner_pattern",
       "creeper_banner_pattern",
-      "skull_banner_pattern",
-      "mojang_banner_pattern",
-      "globe_banner_pattern",
-      "piglin_banner_pattern",
       "flow_banner_pattern",
-      "guster_banner_pattern"
+      "flower_banner_pattern",
+      "globe_banner_pattern",
+      "guster_banner_pattern",
+      "mojang_banner_pattern",
+      "piglin_banner_pattern",
+      "skull_banner_pattern"
     ]
   }
 }

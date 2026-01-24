@@ -4,25 +4,25 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "wilderwild:cypress_log",
-      "wilderwild:cypress_wood",
-      "wilderwild:stripped_cypress_log",
-      "wilderwild:stripped_cypress_wood",
-      "wilderwild:hollowed_cypress_log",
-      "wilderwild:stripped_hollowed_cypress_log",
-      "wilderwild:cypress_planks",
-      "wilderwild:cypress_stairs",
-      "wilderwild:cypress_slab",
+      "wilderwild:cypress_boat",
+      "wilderwild:cypress_button",
+      "wilderwild:cypress_chest_boat",
+      "wilderwild:cypress_door",
       "wilderwild:cypress_fence",
       "wilderwild:cypress_fence_gate",
-      "wilderwild:cypress_door",
-      "wilderwild:cypress_trapdoor",
-      "wilderwild:cypress_pressure_plate",
-      "wilderwild:cypress_button",
-      "wilderwild:cypress_sign",
       "wilderwild:cypress_hanging_sign",
-      "wilderwild:cypress_chest_boat",
-      "wilderwild:cypress_boat"
+      "wilderwild:cypress_log",
+      "wilderwild:cypress_planks",
+      "wilderwild:cypress_pressure_plate",
+      "wilderwild:cypress_sign",
+      "wilderwild:cypress_slab",
+      "wilderwild:cypress_stairs",
+      "wilderwild:cypress_trapdoor",
+      "wilderwild:cypress_wood",
+      "wilderwild:hollowed_cypress_log",
+      "wilderwild:stripped_cypress_log",
+      "wilderwild:stripped_cypress_wood",
+      "wilderwild:stripped_hollowed_cypress_log"
     ]
   }
 }

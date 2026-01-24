@@ -3,10 +3,6 @@
   "style": "clarity_tooltips:painting",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "item_frame",
-      "glow_item_frame",
-      "painting"
-    ]
+    "values": ["glow_item_frame", "item_frame", "painting"]
   }
 }

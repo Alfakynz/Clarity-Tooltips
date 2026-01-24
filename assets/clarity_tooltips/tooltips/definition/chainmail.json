@@ -4,16 +4,16 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
+      "chainmail_boots",
+      "chainmail_chestplate",
+      "chainmail_helmet",
+      "chainmail_leggings",
       "iron_nugget",
-      "stone_shovel",
-      "stone_pickaxe",
       "stone_axe",
       "stone_hoe",
+      "stone_pickaxe",
+      "stone_shovel",
       "stone_sword",
-      "chainmail_helmet",
-      "chainmail_chestplate",
-      "chainmail_leggings",
-      "chainmail_boots",
       "aether:chainmail_gloves"
     ]
   }

@@ -4,14 +4,14 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "snow",
-      "snowball",
-      "snow_block",
+      "blue_ice",
       "ice",
       "packed_ice",
-      "blue_ice",
-      "aether:ice_ring",
+      "snow",
+      "snow_block",
+      "snowball",
       "aether:ice_pendant",
+      "aether:ice_ring",
       "pyrellium:freezing_ice",
       "wilderwild:fragile_ice",
       "wilderwild:icicle"

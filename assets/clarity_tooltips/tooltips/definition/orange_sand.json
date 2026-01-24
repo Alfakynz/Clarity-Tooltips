@@ -4,18 +4,18 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "biomesoplenty:orange_sand",
-      "biomesoplenty:orange_sandstone",
-      "biomesoplenty:orange_sandstone_stairs",
-      "biomesoplenty:orange_sandstone_slab",
-      "biomesoplenty:orange_sandstone_wall",
-      "biomesoplenty:smooth_orange_sandstone",
-      "biomesoplenty:smooth_orange_sandstone_stairs",
-      "biomesoplenty:smooth_orange_sandstone_slab",
-      "biomesoplenty:smooth_orange_sandstone_wall",
+      "biomesoplenty:chiseled_orange_sandstone",
       "biomesoplenty:cut_orange_sandstone",
       "biomesoplenty:cut_orange_sandstone_slab",
-      "biomesoplenty:chiseled_orange_sandstone"
+      "biomesoplenty:orange_sand",
+      "biomesoplenty:orange_sandstone",
+      "biomesoplenty:orange_sandstone_slab",
+      "biomesoplenty:orange_sandstone_stairs",
+      "biomesoplenty:orange_sandstone_wall",
+      "biomesoplenty:smooth_orange_sandstone",
+      "biomesoplenty:smooth_orange_sandstone_slab",
+      "biomesoplenty:smooth_orange_sandstone_stairs",
+      "biomesoplenty:smooth_orange_sandstone_wall"
     ]
   }
 }

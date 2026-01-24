@@ -4,18 +4,18 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "nether_bricks",
-      "nether_brick_stairs",
-      "nether_brick_slab",
-      "nether_brick_wall",
-      "nether_brick_fence",
-      "cracked_nether_bricks",
       "chiseled_nether_bricks",
-      "red_nether_bricks",
-      "red_nether_brick_stairs",
+      "cracked_nether_bricks",
+      "nether_brick",
+      "nether_brick_fence",
+      "nether_brick_slab",
+      "nether_brick_stairs",
+      "nether_brick_wall",
+      "nether_bricks",
       "red_nether_brick_slab",
+      "red_nether_brick_stairs",
       "red_nether_brick_wall",
-      "nether_brick"
+      "red_nether_bricks"
     ]
   }
 }

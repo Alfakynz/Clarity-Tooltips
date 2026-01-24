@@ -3,10 +3,6 @@
   "style": "clarity_tooltips:brain_coral",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "brain_coral_block",
-      "brain_coral",
-      "brain_coral_fan"
-    ]
+    "values": ["brain_coral", "brain_coral_block", "brain_coral_fan"]
   }
 }

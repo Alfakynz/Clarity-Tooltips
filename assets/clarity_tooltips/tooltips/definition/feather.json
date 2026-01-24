@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:feather",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "feather"
-    ]
+    "values": ["feather"]
   }
 }

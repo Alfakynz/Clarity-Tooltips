@@ -19,17 +19,17 @@
       "white_stained_glass_pane",
       "white_terracotta",
       "white_wool",
-      "farmersdelight:white_canvas_sign",
-      "farmersdelight:white_hanging_canvas_sign",
-      "another_furniture:white_stool",
+      "aether:white_cape",
       "another_furniture:white_curtain",
       "another_furniture:white_lamp",
       "another_furniture:white_sofa",
+      "another_furniture:white_stool",
       "another_furniture:white_tall_stool",
-      "aether:white_cape",
-      "comforts:sleeping_bag_white",
       "comforts:hammock_white",
+      "comforts:sleeping_bag_white",
       "deeperdarker:white_sculk_transmitter",
+      "farmersdelight:white_canvas_sign",
+      "farmersdelight:white_hanging_canvas_sign",
       "soulcandles:white_soul_candle"
     ]
   }

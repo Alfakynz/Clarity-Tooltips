@@ -4,15 +4,15 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "quartz_block",
-      "quartz_stairs",
-      "quartz_slab",
       "chiseled_quartz_block",
+      "quartz_block",
       "quartz_bricks",
       "quartz_pillar",
+      "quartz_slab",
+      "quartz_stairs",
       "smooth_quartz",
-      "smooth_quartz_stairs",
-      "smooth_quartz_slab"
+      "smooth_quartz_slab",
+      "smooth_quartz_stairs"
     ]
   }
 }

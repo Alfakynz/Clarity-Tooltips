@@ -19,17 +19,17 @@
       "red_stained_glass_pane",
       "red_terracotta",
       "red_wool",
-      "farmersdelight:red_canvas_sign",
-      "farmersdelight:red_hanging_canvas_sign",
-      "another_furniture:red_stool",
+      "aether:red_cape",
       "another_furniture:red_curtain",
       "another_furniture:red_lamp",
       "another_furniture:red_sofa",
+      "another_furniture:red_stool",
       "another_furniture:red_tall_stool",
-      "aether:red_cape",
-      "comforts:sleeping_bag_red",
       "comforts:hammock_red",
+      "comforts:sleeping_bag_red",
       "deeperdarker:red_sculk_transmitter",
+      "farmersdelight:red_canvas_sign",
+      "farmersdelight:red_hanging_canvas_sign",
       "soulcandles:red_soul_candle"
     ]
   }

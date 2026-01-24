@@ -3,8 +3,6 @@
   "style": "clarity_tooltips:beef",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "beef"
-    ]
+    "values": ["beef"]
   }
 }

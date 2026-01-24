@@ -3,9 +3,6 @@
   "style": "clarity_tooltips:quartz",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "quartz",
-      "pyrellium:quartz_crystal"
-    ]
+    "values": ["quartz", "pyrellium:quartz_crystal"]
   }
 }

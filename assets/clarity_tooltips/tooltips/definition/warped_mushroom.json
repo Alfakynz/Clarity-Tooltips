@@ -4,12 +4,12 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "warped_roots",
-      "twisting_vines",
-      "warped_nylium",
-      "warped_fungus",
-      "warped_wart_block",
       "nether_sprouts",
+      "twisting_vines",
+      "warped_fungus",
+      "warped_nylium",
+      "warped_roots",
+      "warped_wart_block",
       "wilderwild:warped_shelf_fungi"
     ]
   }

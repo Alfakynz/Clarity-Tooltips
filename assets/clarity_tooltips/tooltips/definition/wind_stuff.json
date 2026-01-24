@@ -4,12 +4,12 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "wind_charge",
       "breeze_rod",
-      "trial_key",
       "ominous_trial_key",
+      "trial_key",
+      "trial_spawner",
       "vault",
-      "trial_spawner"
+      "wind_charge"
     ]
   }
 }

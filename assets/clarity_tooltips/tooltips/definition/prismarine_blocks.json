@@ -4,16 +4,16 @@
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
-      "prismarine",
-      "prismarine_stairs",
-      "prismarine_slab",
-      "prismarine_wall",
-      "prismarine_bricks",
-      "prismarine_brick_stairs",
-      "prismarine_brick_slab",
       "dark_prismarine",
-      "dark_prismarine_stairs",
       "dark_prismarine_slab",
+      "dark_prismarine_stairs",
+      "prismarine",
+      "prismarine_brick_slab",
+      "prismarine_brick_stairs",
+      "prismarine_bricks",
+      "prismarine_slab",
+      "prismarine_stairs",
+      "prismarine_wall",
       "sea_lantern"
     ]
   }

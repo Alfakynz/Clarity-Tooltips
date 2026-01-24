@@ -3,12 +3,6 @@
   "style": "clarity_tooltips:bricks",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": [
-      "bricks",
-      "brick_stairs",
-      "brick_slab",
-      "brick_wall",
-      "brick"
-    ]
+    "values": ["brick", "brick_slab", "brick_stairs", "brick_wall", "bricks"]
   }
 }
