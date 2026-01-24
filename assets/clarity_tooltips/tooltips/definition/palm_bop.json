@@ -1,6 +1,6 @@
 {
   "priority": 50,
-  "style": "clarity_tooltips:palm_(biomes_o'_plenty)",
+  "style": "clarity_tooltips:palm_bop",
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [

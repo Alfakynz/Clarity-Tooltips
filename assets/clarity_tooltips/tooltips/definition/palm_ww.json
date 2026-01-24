@@ -1,6 +1,6 @@
 {
   "priority": 50,
-  "style": "clarity_tooltips:palm_(wilder_wild)",
+  "style": "clarity_tooltips:palm_ww",
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [

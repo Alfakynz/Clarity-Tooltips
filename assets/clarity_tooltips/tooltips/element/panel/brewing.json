@@ -1,15 +1,15 @@
 {
   "type": "obscure_tooltips:color_rect",
   "background_palette": {
-    "top_left": "#F0F07D8A",
-    "top_right": "#F0F07D8A",
-    "bottom_left": "#F0F47D8A",
-    "bottom_right": "#F0F47D8A"
+    "top_left": "#F00B0C0D",
+    "top_right": "#F00B0C0D",
+    "bottom_left": "#F00B0C0D",
+    "bottom_right": "#F00B0C0D"
   },
   "border_palette": {
-    "top_left": "#F0FF7D8A",
-    "top_right": "#F0FF7D8A",
-    "bottom_left": "#F0FF7D8A",
-    "bottom_right": "#F0FF7D8A"
+    "top_left": "#F07D8A91",
+    "top_right": "#F07D8A91",
+    "bottom_left": "#F07D8A91",
+    "bottom_right": "#F07D8A91"
   }
 }
