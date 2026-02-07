@@ -17,8 +17,11 @@
       "soul_torch",
       "torch",
       "aether:ambrosium_torch",
+      "aether:flaming_sword",
       "friendsandfoes:wildfire_crown",
       "friendsandfoes:wildfire_crown_fragment",
+      "livingthings:ancient_helmet",
+      "netherite_upgrade_smithing_template",
       "pyrellium:netherrack_mycelium"
     ]
   }

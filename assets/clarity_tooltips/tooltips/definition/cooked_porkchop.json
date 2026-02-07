@@ -3,6 +3,11 @@
   "style": "clarity_tooltips:cooked_porkchop",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["cooked_porkchop"]
+    "values": [
+      "cooked_porkchop",
+      "farmersdelight:bacon_and_eggs",
+      "farmersdelight:bacon_sandwich",
+      "farmersdelight:cooked_bacon"
+    ]
   }
 }

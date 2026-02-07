@@ -3,6 +3,13 @@
   "style": "clarity_tooltips:cooked_chicken",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["cooked_chicken"]
+    "values": [
+      "cooked_chicken",
+      "farmersdelight:chicken_sandwich",
+      "farmersdelight:chicken_soup",
+      "farmersdelight:cooked_chicken_cuts",
+      "farmersdelight:roast_chicken",
+      "farmersdelight:roast_chicken_block"
+    ]
   }
 }

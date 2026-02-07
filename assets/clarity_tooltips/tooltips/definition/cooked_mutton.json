@@ -3,6 +3,14 @@
   "style": "clarity_tooltips:cooked_mutton",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["cooked_mutton"]
+    "values": [
+      "cooked_mutton",
+      "farmersdelight:cooked_mutton_chops",
+      "farmersdelight:mutton_wrap",
+      "farmersdelight:pasta_with_mutton_chop",
+      "farmersdelight:roasted_mutton_chops",
+      "farmersdelight:shepherds_pie",
+      "farmersdelight:shepherds_pie_block"
+    ]
   }
 }

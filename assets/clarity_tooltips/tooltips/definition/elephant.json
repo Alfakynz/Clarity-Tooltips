@@ -1,0 +1,8 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:elephant",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": ["livingthings:elephant"]
+  }
+}

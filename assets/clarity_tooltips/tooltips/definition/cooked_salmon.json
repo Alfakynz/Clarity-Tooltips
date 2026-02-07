@@ -3,6 +3,12 @@
   "style": "clarity_tooltips:cooked_salmon",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["cooked_salmon"]
+    "values": [
+      "cooked_salmon",
+      "farmersdelight:cooked_salmon_slice",
+      "farmersdelight:fish_stew",
+      "farmersdelight:grilled_salmon",
+      "farmersdelight:salmon_roll"
+    ]
   }
 }

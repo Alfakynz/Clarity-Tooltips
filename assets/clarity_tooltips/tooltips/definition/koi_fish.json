@@ -1,0 +1,8 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:koi_fish",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": ["crittersandcompanions:koi_fish"]
+  }
+}

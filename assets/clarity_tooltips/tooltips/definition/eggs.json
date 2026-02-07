@@ -1,6 +1,6 @@
 {
   "priority": 50,
-  "style": "clarity_tooltips:egg",
+  "style": "clarity_tooltips:eggs",
   "filter": {
     "type": "obscure_tooltips:item",
     "values": [
@@ -12,7 +12,10 @@
       "aether:black_moa_egg",
       "aether:blue_moa_egg",
       "aether:white_moa_egg",
+      "farmersdelight:egg_sandwich",
+      "farmersdelight:fried_egg",
       "friendsandfoes:crab_egg",
+      "livingthings:ostrich_egg",
       "wilderwild:ostrich_egg",
       "wilderwild:penguin_egg"
     ]

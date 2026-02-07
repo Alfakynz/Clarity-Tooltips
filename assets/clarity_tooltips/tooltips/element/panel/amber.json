@@ -7,9 +7,9 @@
     "bottom_right": "#F00C0C0C"
   },
   "border_palette": {
-    "top_left": "#F0DB1400",
-    "top_right": "#F0DB1400",
-    "bottom_left": "#F0DB1400",
-    "bottom_right": "#F0DB1400"
+    "top_left": "#F0FFFFFF",
+    "top_right": "#F0FFFFFF",
+    "bottom_left": "#F0FFFFFF",
+    "bottom_right": "#F0FFFFFF"
   }
 }

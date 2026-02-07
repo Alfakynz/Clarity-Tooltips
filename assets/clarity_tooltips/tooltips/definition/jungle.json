@@ -19,6 +19,8 @@
       "jungle_stairs",
       "jungle_trapdoor",
       "jungle_wood",
+      "stripped_jungle_log",
+      "stripped_jungle_wood",
       "another_furniture:jungle_bench",
       "another_furniture:jungle_chair",
       "another_furniture:jungle_drawer",
@@ -35,8 +37,6 @@
       "niftycarts:jungle_seed_drill",
       "niftycarts:jungle_supply_cart",
       "niftycarts:jungle_wagon",
-      "stripped_jungle_log",
-      "stripped_jungle_wood",
       "wilderwild:hollowed_jungle_log",
       "wilderwild:stripped_hollowed_jungle_log"
     ]

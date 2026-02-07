@@ -3,6 +3,6 @@
   "style": "clarity_tooltips:cod",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["cod"]
+    "values": ["cod", "farmersdelight:cod_slice"]
   }
 }

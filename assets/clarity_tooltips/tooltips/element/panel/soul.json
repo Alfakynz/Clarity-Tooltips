@@ -7,8 +7,8 @@
     "bottom_right": "#F00C0C0C"
   },
   "border_palette": {
-    "top_left": "#F049372C",
-    "top_right": "#F049372C",
+    "top_left": "#F0FFFFFF",
+    "top_right": "#F0FFFFFF",
     "bottom_left": "#F05B4538",
     "bottom_right": "#F05B4538"
   }

@@ -3,6 +3,16 @@
   "style": "clarity_tooltips:cooked_beef",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["cooked_beef"]
+    "values": [
+      "cooked_beef",
+      "farmersdelight:barbecue_stick",
+      "farmersdelight:beef_patty",
+      "farmersdelight:beef_stew",
+      "farmersdelight:dog_food",
+      "farmersdelight:dumplings",
+      "farmersdelight:hamburger",
+      "farmersdelight:pasta_with_meatballs",
+      "farmersdelight:steak_and_potatoes"
+    ]
   }
 }

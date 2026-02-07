@@ -1,0 +1,8 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:cooked_giraffe",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": ["livingthings:cooked_giraffe"]
+  }
+}

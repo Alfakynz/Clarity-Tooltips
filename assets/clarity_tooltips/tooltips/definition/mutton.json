@@ -3,6 +3,6 @@
   "style": "clarity_tooltips:mutton",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["mutton"]
+    "values": ["mutton", "farmersdelight:mutton_chops"]
   }
 }

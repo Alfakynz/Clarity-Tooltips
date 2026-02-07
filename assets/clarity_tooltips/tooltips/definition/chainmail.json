@@ -14,7 +14,20 @@
       "stone_pickaxe",
       "stone_shovel",
       "stone_sword",
-      "aether:chainmail_gloves"
+      "aether:chainmail_gloves",
+      "another_furniture:service_bell",
+      "medievalweapons:stone_big_axe",
+      "medievalweapons:stone_dagger",
+      "medievalweapons:stone_francisca",
+      "medievalweapons:stone_healing_staff",
+      "medievalweapons:stone_javelin",
+      "medievalweapons:stone_lance",
+      "medievalweapons:stone_long_sword",
+      "medievalweapons:stone_mace",
+      "medievalweapons:stone_ninjato",
+      "medievalweapons:stone_rapier",
+      "medievalweapons:stone_sickle",
+      "medievalweapons:stone_small_axe"
     ]
   }
 }

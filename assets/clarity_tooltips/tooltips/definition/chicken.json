@@ -3,6 +3,6 @@
   "style": "clarity_tooltips:chicken",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["chicken"]
+    "values": ["chicken", "farmersdelight:chicken_cuts"]
   }
 }

@@ -1,6 +1,6 @@
 {
-  "panel": "clarity_tooltips:egg",
-  "frame": "clarity_tooltips:egg",
+  "panel": "clarity_tooltips:ostrich",
+  "frame": "clarity_tooltips:ostrich",
   "slot": "obscure_tooltips:default",
   "icon": "obscure_tooltips:default",
   "effects": []

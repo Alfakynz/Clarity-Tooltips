@@ -1,0 +1,13 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:pearl",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "crittersandcompanions:pearl",
+      "crittersandcompanions:pearl_necklace_1",
+      "crittersandcompanions:pearl_necklace_2",
+      "crittersandcompanions:pearl_necklace_3"
+    ]
+  }
+}

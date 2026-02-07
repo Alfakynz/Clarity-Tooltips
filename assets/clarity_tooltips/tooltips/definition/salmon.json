@@ -3,6 +3,6 @@
   "style": "clarity_tooltips:salmon",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["salmon"]
+    "values": ["salmon", "farmersdelight:salmon_slice"]
   }
 }

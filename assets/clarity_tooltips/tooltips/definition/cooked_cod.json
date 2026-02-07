@@ -3,6 +3,11 @@
   "style": "clarity_tooltips:cooked_cod",
   "filter": {
     "type": "obscure_tooltips:item",
-    "values": ["cooked_cod"]
+    "values": [
+      "cooked_cod",
+      "farmersdelight:baked_cod_stew",
+      "farmersdelight:cod_roll",
+      "farmersdelight:cooked_cod_slice"
+    ]
   }
 }

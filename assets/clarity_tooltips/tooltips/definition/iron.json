@@ -38,6 +38,10 @@
       "beansbackpacks:lunch_box",
       "biomesoplenty:blood_bucket",
       "biomesoplenty:liquid_null_bucket",
+      "crittersandcompanions:dumbo_octopus_bucket",
+      "crittersandcompanions:iron_dragonfly_armor",
+      "crittersandcompanions:koi_fish_bucket",
+      "crittersandcompanions:sea_bunny_bucket",
       "farmersdelight:cooking_pot",
       "farmersdelight:iron_knife",
       "farmersdelight:skillet",
@@ -63,6 +67,7 @@
       "medievalweapons:iron_sickle",
       "medievalweapons:iron_small_axe",
       "sophisticatedbackpacks:iron_backpack",
+      "sophisticatedcore:xp_bucket",
       "wilderwild:crab_bucket",
       "wilderwild:jellyfish_bucket",
       "yyzsbackpack:iron_backpack"
