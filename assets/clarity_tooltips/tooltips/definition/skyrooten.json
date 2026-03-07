@@ -1,0 +1,26 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:skyrooten",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "aether:skyroot_axe",
+      "aether:skyroot_axolotl_bucket",
+      "aether:skyroot_bucket",
+      "aether:skyroot_cod_bucket",
+      "aether:skyroot_hoe",
+      "aether:skyroot_milk_bucket",
+      "aether:skyroot_pickaxe",
+      "aether:skyroot_poison_bucket",
+      "aether:skyroot_powder_snow_bucket",
+      "aether:skyroot_pufferfish_bucket",
+      "aether:skyroot_remedy_bucket",
+      "aether:skyroot_salmon_bucket",
+      "aether:skyroot_shovel",
+      "aether:skyroot_sword",
+      "aether:skyroot_tadpole_bucket",
+      "aether:skyroot_tropical_fish_bucket",
+      "aether:skyroot_water_bucket"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:shaderoot",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "pyrellium:shaderoot_boat",
+      "pyrellium:shaderoot_button",
+      "pyrellium:shaderoot_chest_boat",
+      "pyrellium:shaderoot_door",
+      "pyrellium:shaderoot_fence",
+      "pyrellium:shaderoot_fence_gate",
+      "pyrellium:shaderoot_hanging_sign",
+      "pyrellium:shaderoot_log",
+      "pyrellium:shaderoot_planks",
+      "pyrellium:shaderoot_pressure_plate",
+      "pyrellium:shaderoot_sign",
+      "pyrellium:shaderoot_slab",
+      "pyrellium:shaderoot_stairs",
+      "pyrellium:shaderoot_trapdoor",
+      "pyrellium:shaderoot_wood",
+      "pyrellium:stripped_shaderoot_log",
+      "pyrellium:stripped_shaderoot_wood"
+    ]
+  }
+}

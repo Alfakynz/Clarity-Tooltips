@@ -1,0 +1,17 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:holystone",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "aether:holystone",
+      "aether:holystone_brick_slab",
+      "aether:holystone_brick_stairs",
+      "aether:holystone_brick_wall",
+      "aether:holystone_bricks",
+      "aether:holystone_slab",
+      "aether:holystone_stairs",
+      "aether:holystone_wall"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:skyroot",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "aether:golden_oak_log",
+      "aether:golden_oak_wood",
+      "aether:skyroot_bed",
+      "aether:skyroot_boat",
+      "aether:skyroot_button",
+      "aether:skyroot_chest_boat",
+      "aether:skyroot_door",
+      "aether:skyroot_fence",
+      "aether:skyroot_fence_gate",
+      "aether:skyroot_hanging_sign",
+      "aether:skyroot_log",
+      "aether:skyroot_planks",
+      "aether:skyroot_pressure_plate",
+      "aether:skyroot_sign",
+      "aether:skyroot_slab",
+      "aether:skyroot_stairs",
+      "aether:skyroot_trapdoor",
+      "aether:skyroot_wood",
+      "aether:stripped_skyroot_log",
+      "aether:stripped_skyroot_wood"
+    ]
+  }
+}

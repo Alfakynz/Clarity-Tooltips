@@ -1,0 +1,13 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:mossy_holystone",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "aether:mossy_holystone",
+      "aether:mossy_holystone_slab",
+      "aether:mossy_holystone_stairs",
+      "aether:mossy_holystone_wall"
+    ]
+  }
+}
