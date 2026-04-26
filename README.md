@@ -31,6 +31,7 @@ Clarity Tooltips adds beautiful borders to tooltips using the Obscure Tooltips m
 
 ## 🚀 Planned Features
 
+- Some Minecraft blocks/items
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
 
 ## 📦 Installation
@@ -42,6 +43,8 @@ You can download Clarity Tooltips on [Modrinth](https://modrinth.com/project/FVJ
 You need the following mod for it to work properly:
 
 - [Obscure Tooltips](https://modrinth.com/project/5vetjDBY)
+
+Want the Legendary Tooltips version, check my other resource packs [Crystal Tooltips](https://modrinth.com/project/FVonl8G5)
 
 ## 🙏 Credits
 
