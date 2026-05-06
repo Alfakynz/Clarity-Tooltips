@@ -9,6 +9,7 @@
       "dragon_breath",
       "fermented_spider_eye",
       "ghast_tear",
+      "glass_bottle",
       "glistering_melon_slice",
       "lingering_potion",
       "magma_cream",
@@ -20,7 +21,9 @@
       "spider_eye",
       "splash_potion",
       "sugar",
-      "beansbackpacks:alchemy_bag"
+      "beansbackpacks:alchemy_bag",
+      "wilderwild:scorched_eye",
+      "wilderwild:fermented_scorched_eye"
     ]
   }
 }

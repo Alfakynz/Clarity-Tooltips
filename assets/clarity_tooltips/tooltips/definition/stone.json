@@ -10,6 +10,7 @@
       "cobblestone_stairs",
       "cobblestone_wall",
       "cracked_stone_bricks",
+      "furnace",
       "infested_chiseled_stone_bricks",
       "infested_cobblestone",
       "infested_cracked_stone_bricks",
@@ -24,7 +25,8 @@
       "stone_bricks",
       "stone_slab",
       "stone_stairs",
-      "pyrellium:headstone"
+      "pyrellium:headstone",
+      "wilderwild:stone_chest"
     ]
   }
 }

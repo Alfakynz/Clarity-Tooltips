@@ -7,6 +7,7 @@
       "blaze_powder",
       "blaze_rod",
       "campfire",
+      "candle",
       "fire_charge",
       "flint_and_steel",
       "magma_block",
@@ -22,7 +23,8 @@
       "friendsandfoes:wildfire_crown_fragment",
       "livingthings:ancient_helmet",
       "netherite_upgrade_smithing_template",
-      "pyrellium:netherrack_mycelium"
+      "pyrellium:netherrack_mycelium",
+      "soulcandles:soul_candle"
     ]
   }
 }

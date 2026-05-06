@@ -1,0 +1,11 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:gravel",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "gravel",
+      "suspicious_gravel"
+    ]
+  }
+}
