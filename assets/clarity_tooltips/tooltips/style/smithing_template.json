@@ -1,0 +1,7 @@
+{
+  "panel": "clarity_tooltips:smithing_template",
+  "frame": "clarity_tooltips:smithing_template",
+  "slot": "obscure_tooltips:default",
+  "icon": "obscure_tooltips:default",
+  "effects": []
+}

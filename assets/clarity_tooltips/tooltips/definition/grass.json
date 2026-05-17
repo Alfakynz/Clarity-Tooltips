@@ -1,0 +1,17 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:grass",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "coarse_dirt",
+      "dirt",
+      "dirt_path",
+      "farmland",
+      "grass_block",
+      "mycelium",
+      "podzol",
+      "rooted_dirt"
+    ]
+  }
+}

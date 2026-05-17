@@ -1,0 +1,17 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:book",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "book",
+      "bookshelf",
+      "chiseled_bookshelf",
+      "lectern",
+      "writable_book",
+      "written_book",
+      "aether:book_of_lore",
+      "aether:skyroot_bookshelf"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "priority": 50,
+  "style": "clarity_tooltips:wood_tools",
+  "filter": {
+    "type": "obscure_tooltips:item",
+    "values": [
+      "armor_stand",
+      "bowl",
+      "carrot_on_a_stick",
+      "fishing_rod",
+      "ladder",
+      "stick",
+      "warped_fungus_on_a_stick",
+      "comforts:rope_and_nail",
+      "niftycarts:wheel"
+    ]
+  }
+}
